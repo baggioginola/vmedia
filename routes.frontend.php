@@ -14,3 +14,7 @@ $app->get('/', function() use ($app) {
 $app->get('/about', function() use ($app) {
     $app->render('about.php');
 });
+
+$app->get('/contact', function() use ($app) {
+    $app->render('contact.php');
+});

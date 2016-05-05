@@ -1121,4 +1121,5 @@
         </div>
     </div>
 </div>
-<div id="push"></div>
+<script type='text/javascript' src='http://maps.googleapis.com/maps/api/js?v=3.exp&amp;language=en-GB&amp;libraries=places'></script>
+<script type="text/javascript" src="<?php echo JS; ?>custom/map.js"></script>

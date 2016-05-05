@@ -27,7 +27,6 @@
     <script type="text/javascript" src="<?php echo JS; ?>custom/scroll-top.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>custom/scripts.js"></script>
 
-    <script type='text/javascript' src='http://maps.googleapis.com/maps/api/js?v=3.exp&amp;language=en-GB&amp;libraries=places'></script>
     <title>VMedia Comunicacion</title>
 
 </head>

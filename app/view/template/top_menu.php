@@ -33,7 +33,7 @@
 
             <div id="logo">
                 <a href="#">
-                    <img src="includes/public/img/logo.png" alt="88 Channel">
+                    <img src="<?php echo IMAGES; ?>logo.png" alt="88 Channel">
 
                     <h1><span
                             class="item_title_char0 item_title_char_odd item_title_char_first_half item_title_char_first">8</span><span
@@ -76,7 +76,7 @@
                                 </a>
                             </li>
                             <li id="iceMenu_142" class="iceMenuLiLevel_1 ">
-                                <a href="#" class=" iceMenuTitle ">
+                                <a href="contact" class=" iceMenuTitle ">
                                     <span class="icemega_title icemega_nosubtitle">Contacto</span>
                                 </a>
                             </li>

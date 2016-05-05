@@ -15,7 +15,7 @@
     <div class="moduletable  padding center">
         <div class="module_container">
             <div class="parallax parallax__ padding center"
-                 data-url="includes/public/img/parallax/parallax4.jpg"
+                 data-url="<?php echo IMAGES; ?>parallax/parallax4.jpg"
                  data-speed="0.8"
                  data-direction="true"
                  data-mobile="true"
@@ -64,7 +64,7 @@
     <div class="moduletable ">
         <div class="module_container">
             <div class="parallax parallax__"
-                 data-url="includes/public/img/parallax/parallax3.jpg"
+                 data-url="<?php echo IMAGES; ?>parallax/parallax3.jpg"
                  data-speed="0.8"
                  data-direction="true"
                  data-mobile="true"
@@ -134,7 +134,7 @@
                                                 <!-- Intro Image -->
                                                 <figure class="item_img img-intro img-intro__none">
 
-                                                    <img src="includes/public/img/tabs/tab4/image1.jpg"
+                                                    <img src="<?php echo IMAGES; ?>tabs/tab4/image1.jpg"
                                                          alt="Channel,">
 
                                                     <div class="caption">
@@ -173,7 +173,7 @@
                                                 <!-- Intro Image -->
                                                 <figure class="item_img img-intro img-intro__none">
 
-                                                    <img src="includes/public/img/tabs/tab4/image2.jpg"
+                                                    <img src="<?php echo IMAGES; ?>tabs/tab4/image2.jpg"
                                                          alt="Channel,">
 
                                                     <div class="caption">
@@ -212,7 +212,7 @@
                                                 <!-- Intro Image -->
                                                 <figure class="item_img img-intro img-intro__none">
 
-                                                    <img src="includes/public/img/tabs/tab4/image3.jpg"
+                                                    <img src="<?php echo IMAGES; ?>tabs/tab4/image3.jpg"
                                                          alt="Channel,">
 
                                                     <div class="caption">
@@ -253,7 +253,7 @@
                                                 <!-- Intro Image -->
                                                 <figure class="item_img img-intro img-intro__none">
 
-                                                    <img src="includes/public/img/tabs/tab4/image4.jpg"
+                                                    <img src="<?php echo IMAGES; ?>tabs/tab4/image4.jpg"
                                                          alt="Channel,">
 
                                                     <div class="caption">
@@ -292,7 +292,7 @@
                                                 <!-- Intro Image -->
                                                 <figure class="item_img img-intro img-intro__none">
 
-                                                    <img src="includes/public/img/tabs/tab4/image5.jpg"
+                                                    <img src="<?php echo IMAGES; ?>tabs/tab4/image5.jpg"
                                                          alt="Channel,">
 
                                                     <div class="caption">
@@ -332,7 +332,7 @@
                                                 <!-- Intro Image -->
                                                 <figure class="item_img img-intro img-intro__none">
 
-                                                    <img src="includes/public/img/tabs/tab4/image6.jpg"
+                                                    <img src="<?php echo IMAGES; ?>tabs/tab4/image6.jpg"
                                                          alt="Channel,">
 
                                                     <div class="caption">
@@ -395,7 +395,7 @@
                                                 <!-- Intro Image -->
                                                 <figure class="item_img img-intro img-intro__none">
 
-                                                    <img src="includes/public/img/tabs/tab5/image2.jpg"
+                                                    <img src="<?php echo IMAGES; ?>tabs/tab5/image2.jpg"
                                                          alt="Channel,">
 
                                                     <div class="caption">
@@ -434,7 +434,7 @@
                                                 <!-- Intro Image -->
                                                 <figure class="item_img img-intro img-intro__none">
 
-                                                    <img src="includes/public/img/tabs/tab5/image1.jpg"
+                                                    <img src="<?php echo IMAGES; ?>tabs/tab5/image1.jpg"
                                                          alt="Channel,">
 
                                                     <div class="caption">
@@ -473,7 +473,7 @@
                                                 <!-- Intro Image -->
                                                 <figure class="item_img img-intro img-intro__none">
 
-                                                    <img src="includes/public/img/tabs/tab5/image6.jpg"
+                                                    <img src="<?php echo IMAGES; ?>tabs/tab5/image6.jpg"
                                                          alt="Channel,">
 
                                                     <div class="caption">
@@ -514,7 +514,7 @@
                                                 <!-- Intro Image -->
                                                 <figure class="item_img img-intro img-intro__none">
 
-                                                    <img src="includes/public/img/tabs/tab5/image5.jpg"
+                                                    <img src="<?php echo IMAGES; ?>tabs/tab5/image5.jpg"
                                                          alt="Channel,">
 
                                                     <div class="caption">
@@ -553,7 +553,7 @@
                                                 <!-- Intro Image -->
                                                 <figure class="item_img img-intro img-intro__none">
 
-                                                    <img src="includes/public/img/tabs/tab5/image3.jpg"
+                                                    <img src="<?php echo IMAGES; ?>tabs/tab5/image3.jpg"
                                                          alt="Channel,">
 
                                                     <div class="caption">
@@ -593,7 +593,7 @@
                                                 <!-- Intro Image -->
                                                 <figure class="item_img img-intro img-intro__none">
 
-                                                    <img src="includes/public/img/tabs/tab5/image4.jpg"
+                                                    <img src="<?php echo IMAGES; ?>tabs/tab5/image4.jpg"
                                                          alt="Channel,">
 
                                                     <div class="caption">
@@ -656,7 +656,7 @@
                                                 <!-- Intro Image -->
                                                 <figure class="item_img img-intro img-intro__none">
 
-                                                    <img src="includes/public/img/tabs/tab6/image3.jpg"
+                                                    <img src="<?php echo IMAGES; ?>tabs/tab6/image3.jpg"
                                                          alt="Channel,">
 
                                                     <div class="caption">
@@ -695,7 +695,7 @@
                                                 <!-- Intro Image -->
                                                 <figure class="item_img img-intro img-intro__none">
 
-                                                    <img src="includes/public/img/tabs/tab6/image5.jpg"
+                                                    <img src="<?php echo IMAGES; ?>tabs/tab6/image5.jpg"
                                                          alt="Channel,">
 
                                                     <div class="caption">
@@ -734,7 +734,7 @@
                                                 <!-- Intro Image -->
                                                 <figure class="item_img img-intro img-intro__none">
 
-                                                    <img src="includes/public/img/tabs/tab6/image6.jpg"
+                                                    <img src="<?php echo IMAGES; ?>tabs/tab6/image6.jpg"
                                                          alt="Channel,">
 
                                                     <div class="caption">
@@ -775,7 +775,7 @@
                                                 <!-- Intro Image -->
                                                 <figure class="item_img img-intro img-intro__none">
 
-                                                    <img src="includes/public/img/tabs/tab6/image2.jpg"
+                                                    <img src="<?php echo IMAGES; ?>tabs/tab6/image2.jpg"
                                                          alt="Channel,">
 
                                                     <div class="caption">
@@ -814,7 +814,7 @@
                                                 <!-- Intro Image -->
                                                 <figure class="item_img img-intro img-intro__none">
 
-                                                    <img src="includes/public/img/tabs/tab6/image1.jpg"
+                                                    <img src="<?php echo IMAGES; ?>tabs/tab6/image1.jpg"
                                                          alt="Channel,">
 
                                                     <div class="caption">
@@ -854,7 +854,7 @@
                                                 <!-- Intro Image -->
                                                 <figure class="item_img img-intro img-intro__none">
 
-                                                    <img src="includes/public/img/tabs/tab6/image4.jpg"
+                                                    <img src="<?php echo IMAGES; ?>tabs/tab6/image4.jpg"
                                                          alt="Channel,">
 
                                                     <div class="caption">
@@ -906,7 +906,7 @@
     <div class="moduletable  padding center">
         <div class="module_container">
             <div class="parallax parallax__ padding center"
-                 data-url="includes/public/img/parallax/parallax2.jpg"
+                 data-url="<?php echo IMAGES; ?>parallax/parallax2.jpg"
                  data-speed="0.8"
                  data-direction="true"
                  data-mobile="true"
@@ -927,7 +927,7 @@
 
                                                 <!-- Intro Image -->
                                                 <figure class="item_img img-intro img-intro__none">
-                                                    <img src="includes/public/img/team/team-1.jpg" alt="">
+                                                    <img src="<?php echo IMAGES; ?>team/team-1.jpg" alt="">
                                                 </figure>
 
                                                 <!-- Item title -->
@@ -950,7 +950,7 @@
 
                                                 <!-- Intro Image -->
                                                 <figure class="item_img img-intro img-intro__none">
-                                                    <img src="includes/public/img/team/team-2.jpg" alt="">
+                                                    <img src="<?php echo IMAGES; ?>team/team-2.jpg" alt="">
                                                 </figure>
 
                                                 <!-- Item title -->
@@ -973,7 +973,7 @@
 
                                                 <!-- Intro Image -->
                                                 <figure class="item_img img-intro img-intro__none">
-                                                    <img src="includes/public/img/team/team-3.jpg" alt="">
+                                                    <img src="<?php echo IMAGES; ?>team/team-3.jpg" alt="">
                                                 </figure>
 
                                                 <!-- Item title -->
@@ -997,7 +997,7 @@
 
                                                 <!-- Intro Image -->
                                                 <figure class="item_img img-intro img-intro__none">
-                                                    <img src="includes/public/img/team/team-4.jpg" alt="">
+                                                    <img src="<?php echo IMAGES; ?>team/team-4.jpg" alt="">
                                                 </figure>
 
                                                 <!-- Item title -->
