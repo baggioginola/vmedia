@@ -64,7 +64,7 @@
                                     <span class="icemega_title icemega_nosubtitle">Acerca</span>
                                 </a>
                             </li>
-                            <li id="iceMenu_335" class="iceMenuLiLevel_1 mzr-drop parent ">
+                            <li id="iceMenu_335" class="iceMenuLiLevel_1">
                                 <a class=" iceMenuTitle ">
                                     <span class="icemega_title icemega_nosubtitle">Proyectos</span>
                                 </a>
