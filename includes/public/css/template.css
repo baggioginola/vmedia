@@ -3782,6 +3782,10 @@ input[type="submit"].btn::-moz-focus-inner {
     border-bottom-color: #ffffff;
 }
 
+.btn-info .active{
+    border-top-color: #ffffff;
+    border-bottom-color: #ffffff;
+}
 .btn-group-vertical {
     display: inline-block;
 }
@@ -10337,7 +10341,7 @@ img {
 }
 
 .padding .parallax {
-    padding: 17.7% 0 18.9%;
+    padding: 11% 0 18.9%;
 }
 
 .skills_diagram {
@@ -10509,7 +10513,7 @@ img {
 }
 
 .headerContent {
-    background: url(../img/template/headerbg.jpg) center 0 no-repeat;
+    /*background: url(../img/template/headerbg.jpg) center 0 no-repeat;*/
     background-size: cover;
 }
 

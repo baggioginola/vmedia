@@ -1,15 +1,3 @@
-<div id="breadcrumbs">
-    <!-- Breadcrumbs -->
-    <div class="moduletable ">
-        <div class="module_container">
-            <ul class="breadcrumb">
-                <li><a href="" class="pathway">Home</a><span class="divider">&nbsp;|&nbsp;</span>
-                </li>
-                <li class="active"><span>About</span></li>
-            </ul>
-        </div>
-    </div>
-</div>
 <!-- maintop -->
 <div id="maintop">
     <div class="moduletable  padding center">

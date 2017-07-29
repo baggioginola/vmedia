@@ -40,29 +40,29 @@
                     <div class="icemegamenu">
                         <ul id="icemegamenu">
                             <li id="iceMenu_101" class="iceMenuLiLevel_1 current active fullwidth">
-                                <a href="./"
+                                <a href="<?php echo DOMAIN; ?>"
                                    class="icemega_active iceMenuTitle ">
                                     <span class="icemega_title icemega_nosubtitle">Inicio</span>
                                 </a>
                             </li>
                             <li id="iceMenu_134" class="iceMenuLiLevel_1 ">
-                                <a href="about" class=" iceMenuTitle ">
+                                <a href="<?php echo DOMAIN; ?>creatividad" class=" iceMenuTitle ">
                                     <span class="icemega_title icemega_nosubtitle">Nosotros</span>
                                 </a>
                             </li>
                             <li id="iceMenu_335" class="iceMenuLiLevel_1">
-                                <a class=" iceMenuTitle ">
+                                <a href="<?php echo DOMAIN; ?>#servicios" class="iceMenuTitle">
                                     <span class="icemega_title icemega_nosubtitle">Servicios</span>
                                 </a>
                             </li>
 
                             <li id="iceMenu_203" class="iceMenuLiLevel_1 gallery">
-                                <a href="#" class=" iceMenuTitle ">
+                                <a href="<?php echo DOMAIN; ?>#clientes" class=" iceMenuTitle ">
                                     <span class="icemega_title icemega_nosubtitle">Clientes</span>
                                 </a>
                             </li>
                             <li id="iceMenu_142" class="iceMenuLiLevel_1 ">
-                                <a href="contact" class=" iceMenuTitle ">
+                                <a href="<?php echo DOMAIN; ?>#map" class=" iceMenuTitle ">
                                     <span class="icemega_title icemega_nosubtitle">Contacto</span>
                                 </a>
                             </li>

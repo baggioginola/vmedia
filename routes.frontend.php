@@ -14,8 +14,40 @@ $app->get('/', function () use ($app) {
     ));
 });
 
-$app->get('/about', function () use ($app) {
-    $app->render('about.php');
+$app->get('/creatividad', function () use ($app) {
+    $app->render('creatividad.php');
+});
+
+$app->get('/impacto', function () use ($app) {
+    $app->render('impacto.php');
+});
+
+$app->get('/estrategia', function () use ($app) {
+    $app->render('estrategia.php');
+});
+
+$app->get('/produccion-audiovisual', function () use ($app) {
+    $app->render('produccion-audiovisual.php');
+});
+
+$app->get('/fotografia', function () use ($app) {
+    $app->render('fotografia.php');
+});
+
+$app->get('/web-multimedia', function () use ($app) {
+    $app->render('web-multimedia.php');
+});
+
+$app->get('/redes-sociales', function () use ($app) {
+    $app->render('redes-sociales.php');
+});
+
+$app->get('/branding-publicidad', function () use ($app) {
+    $app->render('branding-publicidad.php');
+});
+
+$app->get('/comunicacion-corporativa', function () use ($app) {
+    $app->render('comunicacion-corporativa.php');
 });
 
 $app->get('/contact', function () use ($app) {

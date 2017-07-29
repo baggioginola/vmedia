@@ -27,7 +27,6 @@
     <script type="text/javascript" src="<?php echo JS; ?>googlemapsv3.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>custom/scroll-top.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>custom/scripts.js"></script>
-
     <title>VMedia Comunicacion</title>
 
 </head>
@@ -43,4 +42,5 @@
 </div>
 
 <?php require_once TEMPLATE . 'footer_wrapper.php'; ?>
+</body>
 </html>
