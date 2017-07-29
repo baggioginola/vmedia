@@ -2,88 +2,72 @@
     <div class="moduletable slider">
         <div class="module_container">
             <div id="camera-slideshow_201" class="slider camera_wrap pattern_1">
-                <div class="camera-item" data-src="includes/public/img/slider/slide-3.jpg">
+                <div class="camera-item"
+                     data-src="<?php echo $settings['DOMAIN']; ?>includes/public/img/slider/creatividad.jpg">
                     <div class="camera_caption fadeIn">
-                        <figcaption>new!</figcaption>
                         <div class="inner">
-                            <time datetime="2014-05-02 19:34" class="item_published">
-                                19:34 PM
-                            </time>
                             <h1 class="slide-title">
                                         <span
-                                            class="item_title_char0 item_title_char_odd item_title_char_first_half item_title_char_first">L</span><span
-                                    class="item_title_char1 item_title_char_even item_title_char_first_half">i</span><span
-                                    class="item_title_char2 item_title_char_odd item_title_char_first_half">f</span><span
-                                    class="item_title_char3 item_title_char_even item_title_char_first_half">e</span><span
-                                    class="item_title_char4 item_title_char_odd item_title_char_first_half">s</span><span
-                                    class="item_title_char5 item_title_char_even item_title_char_second_half">t</span><span
-                                    class="item_title_char6 item_title_char_odd item_title_char_second_half">y</span><span
-                                    class="item_title_char7 item_title_char_even item_title_char_second_half">l</span><span
-                                    class="item_title_char8 item_title_char_odd item_title_char_second_half item_title_char_last">e</span>
+                                            class="item_title_char0 item_title_char_odd item_title_char_first_half item_title_char_first">C</span><span
+                                    class="item_title_char1 item_title_char_even item_title_char_first_half">R</span><span
+                                    class="item_title_char2 item_title_char_odd item_title_char_first_half">E</span><span
+                                    class="item_title_char3 item_title_char_even item_title_char_first_half">A</span><span
+                                    class="item_title_char4 item_title_char_odd item_title_char_first_half">T</span><span
+                                    class="item_title_char5 item_title_char_even item_title_char_second_half">I</span><span
+                                    class="item_title_char6 item_title_char_odd item_title_char_second_half">V</span><span
+                                    class="item_title_char7 item_title_char_even item_title_char_second_half">I</span><span
+                                    class="item_title_char6 item_title_char_odd item_title_char_second_half">D</span><span
+                                    class="item_title_char7 item_title_char_even item_title_char_second_half">A</span><span
+                                    class="item_title_char8 item_title_char_odd item_title_char_second_half item_title_char_last">D</span>
                             </h1>
 
                             <div class="introtext">
                             </div>
 
-                            <div class="readmore">
-                                <a class="btn btn-info readmore"
-                                   href="#" target="_self"><span>show info</span></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="camera-item"
+                     data-src="<?php echo $settings['DOMAIN']; ?>includes/public/img/slider/impacto.jpg">
+                    <div class="camera_caption fadeIn">
+                        <div class="inner">
+                            <h1 class="slide-title">
+                                        <span
+                                            class="item_title_char0 item_title_char_odd item_title_char_first_half item_title_char_first">I</span><span
+                                    class="item_title_char1 item_title_char_even item_title_char_first_half">M</span><span
+                                    class="item_title_char2 item_title_char_odd item_title_char_first_half">P</span><span
+                                    class="item_title_char3 item_title_char_even item_title_char_first_half">A</span><span
+                                    class="item_title_char4 item_title_char_odd item_title_char_second_half">C</span><span
+                                    class="item_title_char5 item_title_char_even item_title_char_second_half">T</span><span
+                                    class="item_title_char6 item_title_char_odd item_title_char_second_half item_title_char_last">O</span>
+                            </h1>
+
+                            <div class="introtext">
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="camera-item" data-src="includes/public/img/slider/slide-2.jpg">
+                <div class="camera-item"
+                     data-src="<?php echo $settings['DOMAIN']; ?>includes/public/img/slider/estrategia.jpg">
                     <div class="camera_caption fadeIn">
                         <figcaption>new!</figcaption>
                         <div class="inner">
-                            <time datetime="2014-05-02 19:34" class="item_published">
-                                19:34 PM
-                            </time>
                             <h1 class="slide-title">
                                         <span
-                                            class="item_title_char0 item_title_char_odd item_title_char_first_half item_title_char_first">F</span><span
-                                    class="item_title_char1 item_title_char_even item_title_char_first_half">a</span><span
-                                    class="item_title_char2 item_title_char_odd item_title_char_first_half">r</span><span
-                                    class="item_title_char3 item_title_char_even item_title_char_first_half">m</span><span
-                                    class="item_title_char4 item_title_char_odd item_title_char_second_half">i</span><span
-                                    class="item_title_char5 item_title_char_even item_title_char_second_half">n</span><span
-                                    class="item_title_char6 item_title_char_odd item_title_char_second_half item_title_char_last">g</span>
+                                            class="item_title_char0 item_title_char_odd item_title_char_first_half item_title_char_first">E</span>
+                                <span class="item_title_char1 item_title_char_even item_title_char_first_half">S</span>
+                                <span class="item_title_char2 item_title_char_odd item_title_char_first_half">T</span>
+                                <span class="item_title_char3 item_title_char_even item_title_char_first_half">R</span>
+                                <span class="item_title_char4 item_title_char_odd item_title_char_second_half">A</span>
+                                <span class="item_title_char5 item_title_char_even item_title_char_second_half">T</span>
+                                <span class="item_title_char4 item_title_char_odd item_title_char_second_half">E</span>
+                                <span class="item_title_char5 item_title_char_even item_title_char_second_half">G</span>
+                                <span class="item_title_char4 item_title_char_odd item_title_char_second_half">I</span>
+                                <span
+                                    class="item_title_char6 item_title_char_odd item_title_char_second_half item_title_char_last">A</span>
                             </h1>
 
                             <div class="introtext">
-                            </div>
-
-                            <div class="readmore">
-                                <a class="btn btn-info readmore"
-                                   href="#" target="_self"><span>show info</span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="camera-item" data-src="includes/public/img/slider/slide-1.jpg">
-                    <div class="camera_caption fadeIn">
-                        <figcaption>new!</figcaption>
-                        <div class="inner">
-                            <time datetime="2014-05-02 19:35" class="item_published">
-                                19:35 PM
-                            </time>
-                            <h1 class="slide-title">
-                                        <span
-                                            class="item_title_char0 item_title_char_odd item_title_char_first_half item_title_char_first">G</span><span
-                                    class="item_title_char1 item_title_char_even item_title_char_first_half">l</span><span
-                                    class="item_title_char2 item_title_char_odd item_title_char_first_half">a</span><span
-                                    class="item_title_char3 item_title_char_even item_title_char_first_half">m</span><span
-                                    class="item_title_char4 item_title_char_odd item_title_char_second_half">o</span><span
-                                    class="item_title_char5 item_title_char_even item_title_char_second_half">u</span><span
-                                    class="item_title_char6 item_title_char_odd item_title_char_second_half item_title_char_last">r</span>
-                            </h1>
-
-                            <div class="introtext">
-                            </div>
-
-                            <div class="readmore">
-                                <a class="btn btn-info readmore"
-                                   href="#" target="_self"><span>show info</span></a>
                             </div>
                         </div>
                     </div>
@@ -96,11 +80,6 @@
 <div id="maintop">
     <div class="moduletable tabs">
         <div class="module_container">
-            <ul class="nav nav-tabs" id="bootstrap_tabs_nav_214">
-                <li class="active"><a data-toggle="tab" href="#tab1-214">RIGHT NOW</a></li>
-                <li><a data-toggle="tab" href="#tab2-214">ON TONIGHT</a></li>
-                <li><a data-toggle="tab" href="#tab3-214">PREVIEWS</a></li>
-            </ul>
             <div class="tab-content" id="bootstrap_tabs_content_214">
                 <div class="tab-pane fade active in" id="tab1-214">
 
@@ -114,19 +93,13 @@
                                             <div class="item_content">
 
                                                 <figure class="item_img img-intro img-intro__none">
-                                                    <img src="includes/public/img/image1.jpg" alt="Channel,">
+                                                    <img
+                                                        src="<?php echo $settings['DOMAIN']; ?>includes/public/img/categorias/produccion_audiovisual.jpg"
+                                                        alt="Channel"/>
 
                                                     <div class="caption">
-                                                        <figcaption>88</figcaption>
-                                                        <span class="alt">Channel,</span>
-                                                        <time datetime="2016-01-27 09:57"
-                                                              class="item_published">
-                                                            09:57 AM
-                                                        </time>
-
                                                         <h3 class="item_title item_title__">
-                                                            <a href="#">Room
-                                                                Style</a>
+                                                            <a href="#">Producción Audiovisual</a>
                                                         </h3>
                                                     </div>
                                                 </figure>
@@ -141,19 +114,13 @@
                                             <div class="item_content">
 
                                                 <figure class="item_img img-intro img-intro__none">
-                                                    <img src="includes/public/img/image2.jpg" alt="Channel,">
+                                                    <img
+                                                        src="<?php echo $settings['DOMAIN']; ?>includes/public/img/categorias/fotografia.jpg"
+                                                        alt="fotografia">
 
                                                     <div class="caption">
-                                                        <figcaption>88</figcaption>
-                                                        <span class="alt">Channel,</span>
-                                                        <time datetime="2016-01-27 09:57"
-                                                              class="item_published">
-                                                            09:57 AM
-                                                        </time>
-
                                                         <h3 class="item_title item_title__">
-                                                            <a href="#">Look
-                                                                Like</a>
+                                                            <a href="#">Fotografía</a>
                                                         </h3>
                                                     </div>
                                                 </figure>
@@ -168,19 +135,13 @@
                                             <div class="item_content">
 
                                                 <figure class="item_img img-intro img-intro__none">
-                                                    <img src="includes/public/img/image3.jpg" alt="Channel,">
+                                                    <img
+                                                        src="<?php echo $settings['DOMAIN']; ?>includes/public/img/categorias/web.jpg"
+                                                        alt="Channel,">
 
                                                     <div class="caption">
-                                                        <figcaption>88</figcaption>
-                                                        <span class="alt">Channel,</span>
-                                                        <time datetime="2016-01-27 09:57"
-                                                              class="item_published">
-                                                            09:57 AM
-                                                        </time>
-
                                                         <h3 class="item_title item_title__">
-                                                            <a href="#">Visiting
-                                                                Antarctica</a>
+                                                            <a href="#">WEB & Multimedia</a>
                                                         </h3>
                                                     </div>
                                                 </figure>
@@ -197,19 +158,13 @@
                                             <div class="item_content">
 
                                                 <figure class="item_img img-intro img-intro__none">
-                                                    <img src="includes/public/img/image4.jpg" alt="Channel,">
+                                                    <img
+                                                        src="<?php echo $settings['DOMAIN']; ?>includes/public/img/categorias/redes.jpg"
+                                                        alt="Channel,">
 
                                                     <div class="caption">
-                                                        <figcaption>88</figcaption>
-                                                        <span class="alt">Channel,</span>
-                                                        <time datetime="2016-01-27 09:57"
-                                                              class="item_published">
-                                                            09:57 AM
-                                                        </time>
-
                                                         <h3 class="item_title item_title__">
-                                                            <a href="#">Fly
-                                                                with Roger</a>
+                                                            <a href="#">Redes Sociales</a>
                                                         </h3>
                                                     </div>
                                                 </figure>
@@ -224,19 +179,13 @@
                                             <div class="item_content">
 
                                                 <figure class="item_img img-intro img-intro__none">
-                                                    <img src="includes/public/img/image5.jpg" alt="Channel,">
+                                                    <img
+                                                        src="<?php echo $settings['DOMAIN'] ?>includes/public/img/categorias/publicidad.jpg"
+                                                        alt="Channel,">
 
                                                     <div class="caption">
-                                                        <figcaption>88</figcaption>
-                                                        <span class="alt">Channel,</span>
-                                                        <time datetime="2016-01-27 09:57"
-                                                              class="item_published">
-                                                            09:57 AM
-                                                        </time>
-
                                                         <h3 class="item_title item_title__">
-                                                            <a href="#">4
-                                                                Wheels</a>
+                                                            <a href="#">Branding & Publicidad</a>
                                                         </h3>
                                                     </div>
                                                 </figure>
@@ -252,394 +201,13 @@
                                             <div class="item_content">
 
                                                 <figure class="item_img img-intro img-intro__none">
-                                                    <img src="includes/public/img/image6.jpg" alt="Channel,">
+                                                    <img
+                                                        src="<?php echo $settings['DOMAIN']; ?>includes/public/img/categorias/corporativa.jpg"
+                                                        alt="Channel,">
 
                                                     <div class="caption">
-                                                        <figcaption>88</figcaption>
-                                                        <span class="alt">Channel,</span>
-                                                        <time datetime="2016-01-27 09:57"
-                                                              class="item_published">
-                                                            09:57 AM
-                                                        </time>
-
                                                         <h3 class="item_title item_title__">
-                                                            <a href="#">Smart
-                                                                Traveler</a>
-                                                        </h3>
-                                                    </div>
-                                                </figure>
-
-                                                <div class="item_introtext">
-                                                </div>
-
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </article>
-                                    </div>
-                                    <div class="clearfix"></div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                    <div class="clearfix"></div>
-                </div>
-                <div class="tab-pane fade" id="tab2-214">
-
-                    <div class="item_content">
-
-                        <div class="item_introtext">
-                            <div class="moduletable">
-                                <div class="mod-newsflash-adv tabs mod-newsflash-adv__ cols-3" id="module_215">
-                                    <div class="row-fluid">
-                                        <article class="span0 item item_num0 item__module  " id="item_153">
-                                            <div class="item_content">
-
-                                                <figure class="item_img img-intro img-intro__none">
-                                                    <img src="includes/public/img/tabs/tab2/image3.jpg"
-                                                         alt="Channel,">
-
-                                                    <div class="caption">
-                                                        <figcaption>88</figcaption>
-                                                        <span class="alt">Channel,</span>
-                                                        <time datetime="2016-01-27 09:57"
-                                                              class="item_published">
-                                                            09:57 AM
-                                                        </time>
-
-                                                        <h3 class="item_title item_title__">
-                                                            <a href="#">Reality
-                                                                show</a>
-                                                        </h3>
-                                                    </div>
-                                                </figure>
-
-                                                <div class="item_introtext">
-                                                </div>
-
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </article>
-                                        <article class="span0 item item_num1 item__module  " id="item_152">
-                                            <div class="item_content">
-
-                                                <figure class="item_img img-intro img-intro__none">
-                                                    <img src="includes/public/img/tabs/tab2/image4.jpg"
-                                                         alt="Channel,">
-
-                                                    <div class="caption">
-                                                        <figcaption>88</figcaption>
-                                                        <span class="alt">Channel,</span>
-                                                        <time datetime="2016-01-27 09:57"
-                                                              class="item_published">
-                                                            09:57 AM
-                                                        </time>
-
-                                                        <h3 class="item_title item_title__">
-                                                            <a href="#">Science
-                                                                technologies</a>
-                                                        </h3>
-                                                    </div>
-                                                </figure>
-
-                                                <div class="item_introtext">
-                                                </div>
-
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </article>
-                                        <article class="span0 item item_num2 item__module  " id="item_154">
-                                            <div class="item_content">
-
-                                                <figure class="item_img img-intro img-intro__none">
-                                                    <img src="includes/public/img/tabs/tab2/image2.jpg"
-                                                         alt="Channel,">
-
-                                                    <div class="caption">
-                                                        <figcaption>88</figcaption>
-                                                        <span class="alt">Channel,</span>
-                                                        <time datetime="2016-01-27 09:57"
-                                                              class="item_published">
-                                                            09:57 AM
-                                                        </time>
-
-                                                        <h3 class="item_title item_title__">
-                                                            <a href="#">Football
-                                                                game</a>
-                                                        </h3>
-                                                    </div>
-                                                </figure>
-
-                                                <div class="item_introtext">
-                                                </div>
-
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </article>
-                                    </div>
-                                    <div class="row-fluid">
-                                        <article class="span0 item item_num3 item__module  " id="item_155">
-                                            <div class="item_content">
-
-                                                <figure class="item_img img-intro img-intro__none">
-                                                    <img src="includes/public/img/tabs/tab2/image1.jpg"
-                                                         alt="Channel,">
-
-                                                    <div class="caption">
-                                                        <figcaption>88</figcaption>
-                                                        <span class="alt">Channel,</span>
-                                                        <time datetime="2016-01-27 09:57"
-                                                              class="item_published">
-                                                            09:57 AM
-                                                        </time>
-
-                                                        <h3 class="item_title item_title__">
-                                                            <a href="#">Political
-                                                                News</a>
-                                                        </h3>
-                                                    </div>
-                                                </figure>
-
-                                                <div class="item_introtext">
-                                                </div>
-
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </article>
-                                        <article class="span0 item item_num4 item__module  " id="item_151">
-                                            <div class="item_content">
-
-                                                <figure class="item_img img-intro img-intro__none">
-                                                    <img src="includes/public/img/tabs/tab2/image5.jpg"
-                                                         alt="Channel,">
-
-                                                    <div class="caption">
-                                                        <figcaption>88</figcaption>
-                                                        <span class="alt">Channel,</span>
-                                                        <time datetime="2016-01-27 09:57"
-                                                              class="item_published">
-                                                            09:57 AM
-                                                        </time>
-
-                                                        <h3 class="item_title item_title__">
-                                                            <a href="#">Fashion
-                                                                and shopping</a>
-                                                        </h3>
-                                                    </div>
-                                                </figure>
-
-                                                <div class="item_introtext">
-                                                </div>
-
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </article>
-                                        <article class="span0 item item_num5 item__module  lastItem"
-                                                 id="item_150">
-                                            <div class="item_content">
-
-                                                <figure class="item_img img-intro img-intro__none">
-                                                    <img src="includes/public/img/tabs/tab2/image6.jpg"
-                                                         alt="Channel,">
-
-                                                    <div class="caption">
-                                                        <figcaption>88</figcaption>
-                                                        <span class="alt">Channel,</span>
-                                                        <time datetime="2016-01-27 09:57"
-                                                              class="item_published">
-                                                            09:57 AM
-                                                        </time>
-
-                                                        <h3 class="item_title item_title__">
-                                                            <a href="#">Chess
-                                                                championship</a>
-                                                        </h3>
-                                                    </div>
-                                                </figure>
-
-                                                <div class="item_introtext">
-                                                </div>
-
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </article>
-                                    </div>
-                                    <div class="clearfix"></div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                    <div class="clearfix"></div>
-                </div>
-                <div class="tab-pane fade" id="tab3-214">
-
-                    <div class="item_content">
-
-                        <div class="item_introtext">
-                            <div class="moduletable">
-                                <div class="mod-newsflash-adv tabs mod-newsflash-adv__ cols-3" id="module_216">
-                                    <div class="row-fluid">
-                                        <article class="span0 item item_num0 item__module  " id="item_157">
-                                            <div class="item_content">
-
-                                                <figure class="item_img img-intro img-intro__none">
-                                                    <img src="includes/public/img/tabs/tab3/image5.jpg"
-                                                         alt="Channel,">
-
-                                                    <div class="caption">
-                                                        <figcaption>88</figcaption>
-                                                        <span class="alt">Channel,</span>
-                                                        <time datetime="2016-01-27 09:57"
-                                                              class="item_published">
-                                                            09:57 AM
-                                                        </time>
-
-                                                        <h3 class="item_title item_title__">
-                                                            <a href="#">U-Verse</a>
-                                                        </h3>
-                                                    </div>
-                                                </figure>
-
-                                                <div class="item_introtext">
-                                                </div>
-
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </article>
-                                        <article class="span0 item item_num1 item__module  " id="item_158">
-                                            <div class="item_content">
-
-                                                <figure class="item_img img-intro img-intro__none">
-                                                    <img src="includes/public/img/tabs/tab3/image4.jpg"
-                                                         alt="Channel,">
-
-                                                    <div class="caption">
-                                                        <figcaption>88</figcaption>
-                                                        <span class="alt">Channel,</span>
-                                                        <time datetime="2016-01-27 09:57"
-                                                              class="item_published">
-                                                            09:57 AM
-                                                        </time>
-
-                                                        <h3 class="item_title item_title__">
-                                                            <a href="#">Showtime
-                                                                for Many</a>
-                                                        </h3>
-                                                    </div>
-                                                </figure>
-
-                                                <div class="item_introtext">
-                                                </div>
-
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </article>
-                                        <article class="span0 item item_num2 item__module  " id="item_159">
-                                            <div class="item_content">
-
-                                                <figure class="item_img img-intro img-intro__none">
-                                                    <img src="includes/public/img/tabs/tab3/image3.jpg"
-                                                         alt="Channel,">
-
-                                                    <div class="caption">
-                                                        <figcaption>88</figcaption>
-                                                        <span class="alt">Channel,</span>
-                                                        <time datetime="2016-01-27 09:57"
-                                                              class="item_published">
-                                                            09:57 AM
-                                                        </time>
-
-                                                        <h3 class="item_title item_title__">
-                                                            <a href="#">HBO
-                                                                and Showtime on Demand</a>
-                                                        </h3>
-                                                    </div>
-                                                </figure>
-
-                                                <div class="item_introtext">
-                                                </div>
-
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </article>
-                                    </div>
-                                    <div class="row-fluid">
-                                        <article class="span0 item item_num3 item__module  " id="item_161">
-                                            <div class="item_content">
-
-                                                <figure class="item_img img-intro img-intro__none">
-                                                    <img src="includes/public/img/tabs/tab3/image1.jpg"
-                                                         alt="Channel,">
-
-                                                    <div class="caption">
-                                                        <figcaption>88</figcaption>
-                                                        <span class="alt">Channel,</span>
-                                                        <time datetime="2016-01-27 09:57"
-                                                              class="item_published">
-                                                            09:57 AM
-                                                        </time>
-
-                                                        <h3 class="item_title item_title__">
-                                                            <a href="#">Universal
-                                                                Sports</a>
-                                                        </h3>
-                                                    </div>
-                                                </figure>
-
-                                                <div class="item_introtext">
-                                                </div>
-
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </article>
-                                        <article class="span0 item item_num4 item__module  " id="item_160">
-                                            <div class="item_content">
-
-                                                <figure class="item_img img-intro img-intro__none">
-                                                    <img src="includes/public/img/tabs/tab3/image2.jpg"
-                                                         alt="Channel,">
-
-                                                    <div class="caption">
-                                                        <figcaption>88</figcaption>
-                                                        <span class="alt">Channel,</span>
-                                                        <time datetime="2016-01-27 09:57"
-                                                              class="item_published">
-                                                            09:57 AM
-                                                        </time>
-
-                                                        <h3 class="item_title item_title__">
-                                                            <a href="#">UP
-                                                                and RIDE TV</a>
-                                                        </h3>
-                                                    </div>
-                                                </figure>
-
-                                                <div class="item_introtext">
-                                                </div>
-
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </article>
-                                        <article class="span0 item item_num5 item__module  lastItem"
-                                                 id="item_156">
-                                            <div class="item_content">
-
-                                                <figure class="item_img img-intro img-intro__none">
-                                                    <img src="includes/public/img/tabs/tab3/image6.jpg"
-                                                         alt="Channel,">
-
-                                                    <div class="caption">
-                                                        <figcaption>88</figcaption>
-                                                        <span class="alt">Channel,</span>
-                                                        <time datetime="2016-01-27 09:57"
-                                                              class="item_published">
-                                                            09:57 AM
-                                                        </time>
-
-                                                        <h3 class="item_title item_title__">
-                                                            <a href="#">DIY
-                                                                and Investigation Discovery</a>
+                                                            <a href="#">Comunicación Corporativa</a>
                                                         </h3>
                                                     </div>
                                                 </figure>
@@ -663,10 +231,11 @@
             <div class="clearfix"></div>
         </div>
     </div>
+
     <div class="moduletable ">
         <div class="module_container">
             <div id="player" class="rd-youtube-bg" data-video-id="Tz_ozrcAmlk" data-mute="true"
-                 data-image-url="images/parallax/video.jpg" data-start="0">
+                 data-image-url="<?php echo IMAGES; ?>parallax/parallax4.jpg" data-start="0">
                 <div class="row-container">
                     <div class="container">
                         <div class="row">
@@ -676,14 +245,12 @@
                                     <div class="item__module" id="item_162">
 
                                         <h3 class="item-title">
-                                            Video of the day </h3>
-                                        <figcaption>88</figcaption>
-                                        <span class="alt">Channel</span>
+                                            En Acción </h3>
 
                                         <div class="item_introtext">
                                         </div>
                                         <a class="btn btn-info readmore"
-                                           href=""><span>view more</span></a>
+                                           href=""><span>Ver Más</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -693,30 +260,79 @@
             </div>
         </div>
     </div>
+
     <div class="moduletable ">
         <div class="module_container">
-            <div class="parallax parallax__" data-url="includes/public/img/parallax.jpg" data-speed="0.8"
+            <div class="parallax parallax__" data-url="<?php echo IMAGES; ?>fondo_clientes.jpg" data-speed="0.8"
                  data-direction="true" data-mobile="true" data-blur="false">
                 <div class="row-container">
                     <div class="container">
-                        <div class="row">
+                        <div class="row-fluid">
                             <div class="moduletable center span12">
-                                <div class="mod-article-single custom mod-article-single__ center"
-                                     id="module_218">
-                                    <div class="item__module" id="item_163">
-                                        <div class="caption">
-                                            <figcaption>88</figcaption>
-                                            <span class="alt">Channel</span>
-                                        </div>
+                                <div class="clientes">
+                                    <span>
+                                        Estas son algunas organizaciones para las que hemos colaborado a lo largo de nuestra experiencia
+                                    </span>
+                                </div>
+                                <div class="row-fluid" style="padding-bottom: 45px;">
+                                    <div class="moduletable center  span3">
+                                        <img src="<?php echo IMAGES; ?>clientes/vw.png" style="height: 100px;"/>
+                                    </div>
+                                    <div class="moduletable center span3">
+                                        <img src="<?php echo IMAGES; ?>clientes/gobierno.png" style="height: 135px;"/>
+                                    </div>
+                                    <div class="moduletable center span3">
+                                        <img src="<?php echo IMAGES; ?>clientes/mondelez.png"
+                                             style="height: 50px; padding-top: 30px;"/>
+                                    </div>
+                                    <div class="moduletable center span3">
+                                        <img src="<?php echo IMAGES; ?>clientes/coparmex.png" style="height: 100px;"/>
+                                    </div>
+                                </div>
 
-                                        <div class="item_introtext">
-                                            9:00 PM 11:00 PM 2:00 AM 9:00 AM
-                                        </div>
+                                <div class="row-fluid" style="padding-bottom: 45px;">
+                                    <div class="moduletable center  span3">
+                                        <img src="<?php echo IMAGES; ?>clientes/seglo.png"/>
+                                    </div>
+                                    <div class="moduletable center span3">
+                                        <img src="<?php echo IMAGES; ?>clientes/gala.jpg" style="height: 100px;"/>
+                                    </div>
+                                    <div class="moduletable center span3">
+                                        <img src="<?php echo IMAGES; ?>clientes/kiekert.png"/>
+                                    </div>
+                                    <div class="moduletable center span3">
+                                        <img src="<?php echo IMAGES; ?>clientes/jivamukti.png" style="height: 135px;"/>
+                                    </div>
+                                </div>
 
-                                        <h1 class="item-title">
-                                            Weather </h1>
-                                        <a class="btn btn-info readmore"
-                                           href=""><span>view more</span></a>
+                                <div class="row-fluid" style="padding-bottom: 45px;">
+                                    <div class="moduletable center  span3">
+                                        <img src="<?php echo IMAGES; ?>clientes/hbpo.png"/>
+                                    </div>
+                                    <div class="moduletable center span3">
+                                        <img src="<?php echo IMAGES; ?>clientes/esru.jpg" style="height: 75px;"/>
+                                    </div>
+                                    <div class="moduletable center span3">
+                                        <img src="<?php echo IMAGES; ?>clientes/schnellecke.jpg"/>
+                                    </div>
+                                    <div class="moduletable center span3">
+                                        <img src="<?php echo IMAGES; ?>clientes/Produce.jpg" style="height: 100px;"/>
+                                    </div>
+                                </div>
+
+                                <div class="row-fluid">
+                                    <div class="moduletable center  span3">
+                                        <img src="<?php echo IMAGES; ?>clientes/norm.png"/>
+                                    </div>
+
+                                    <div class="moduletable center span3">
+                                        <img src="<?php echo IMAGES; ?>clientes/helsa.png"/>
+                                    </div>
+                                    <div class="moduletable center span3">
+                                        <img src="<?php echo IMAGES; ?>clientes/pelikan.png" style="padding-top: 25px;"/>
+                                    </div>
+                                    <div class="moduletable center span3">
+                                        <img src="<?php echo IMAGES; ?>clientes/Libanes.png" style="height:160px;"/>
                                     </div>
                                 </div>
                             </div>
@@ -741,8 +357,16 @@
                 </noscript>
                 <div id='mapplaceholder8_ly2cs_0'>
                     <div id='mapbody8_ly2cs_0' style="display: none; text-align:center">
+
+
                         <div id="googlemap8_ly2cs_0" class="map"
                              style="margin-right: auto; margin-left: auto; width:100%; height:422px;"></div>
+
+                        <!--
+                        <iframe frameborder="0" height="250"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.9276588089538!2d-98.30657168509903!3d19.06691798709317!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc0e1299aa007%3A0x9d70ef60b6968fa8!2sFeelMakers+Wedding+Cinematography!5e0!3m2!1ses-419!2smx!4v1496799312182"
+                                style="border:0" width="100%"></iframe>
+                                !-->
                     </div>
                 </div>
                 <img src='includes/public/img/marker.png' style='display:none' alt='icon'/>
@@ -761,8 +385,8 @@
                         "width": "100%",
                         "height": "422px",
                         "effect": "none",
-                        "deflatitude": "40.749032",
-                        "deflongitude": "-73.937254",
+                        "deflatitude": "19.066918",
+                        "deflongitude": "-98.304383",
                         "centerlat": "",
                         "centerlon": "",
                         "address": "",
@@ -886,8 +510,8 @@
                         "lookat": [],
                         "camera": [],
                         "searchtext": "",
-                        "latitude": "40.749032",
-                        "longitude": "-73.937254",
+                        "latitude": "19.066918",
+                        "longitude": "-98.304383",
                         "waypoints": [],
                         "mapnm": "8_ly2cs_0",
                         "descr": "0",
@@ -1001,12 +625,13 @@
                         <div id="content-top" class="row-fluid">
                             <div class="moduletable   span12">
                                 <div class="module_container">
-                                    <header><h3 class="moduleTitle center">Get in touch</h3></header>
+                                    <header><h3 class="moduleTitle center">Contacto</h3></header>
                                     <div id="contact_209">
                                         <form class="mod_tm_ajax_contact_form" id="contact-form_209" novalidate>
                                             <input type="hidden" id="module_id" name="module_id" value="209">
 
-                                            <div class="mod_tm_ajax_contact_form_message" id="message_209" style="display:none">
+                                            <div class="mod_tm_ajax_contact_form_message" id="message_209"
+                                                 style="display:none">
                                                 <span class="s">Thank You! Your message has been sent.</span>
                                                         <span
                                                             class="e">Something went wrong, please try again later.</span>
@@ -1016,10 +641,10 @@
                                                 <div class="row-fluid">
                                                     <div class="control control-group-input span6">
                                                         <div class="controls"><input type="text"
-                                                                                     placeholder="Name"
+                                                                                     placeholder="Nombre"
                                                                                      name="name" id="name_0"
                                                                                      class="mod_tm_ajax_contact_form_text hasTooltip"
-                                                                                     required title="Name">
+                                                                                     required title="Nombre">
                                                         </div>
                                                     </div>
                                                     <div class="control control-group-input span6">
@@ -1032,18 +657,18 @@
                                                     </div>
                                                     <div class="control control-group-input span12">
                                                         <div class="controls"><textarea name="message"
-                                                                                        placeholder="Message"
+                                                                                        placeholder="Mensaje"
                                                                                         id="message_2"
                                                                                         class="mod_tm_ajax_contact_form_textarea hasTooltip"
                                                                                         required
-                                                                                        title="Message"></textarea>
+                                                                                        title="Mensaje"></textarea>
                                                         </div>
                                                     </div>
                                                     <div class="control control-group-button span12">
                                                         <div class="controls">
                                                             <button type="submit"
                                                                     class="btn btn-primary mod_tm_ajax_contact_form_btn">
-                                                                Send
+                                                                Enviar
                                                             </button>
                                                         </div>
                                                     </div>
@@ -1074,10 +699,10 @@
                         <div class="mod-menu">
                             <ul class="menu address">
                                 <li class="item-526">
-                                    <a href="#">8901 Marmora road, Glasgow, D04 89GR</a>
+                                    5 de Mayo 1204-A, San Pedro Cholula, Puebla
                                 </li>
                                 <li class="item-527">
-                                    <a class="link" href="#">Get Directions</a>
+                                    C.P. 72760
                                 </li>
                             </ul>
                         </div>
@@ -1088,11 +713,9 @@
                         <div class="mod-menu">
                             <ul class="menu phone">
                                 <li class="item-528">
-                                    <span class="separator">Freephone: +1 800 559 6580</span></li>
+                                    <span class="separator">Celular: 22 24 55 36 15</span></li>
                                 <li class="item-529">
-                                    <span class="separator">Telephone: +1 959 603 6035</span></li>
-                                <li class="item-530">
-                                    <span class="separator">FAX:+1 504 889 9898</span></li>
+                                    <span class="separator">Teléfono: (222) 704 91 09</span></li>
                             </ul>
                         </div>
                     </div>
@@ -1108,8 +731,11 @@
                                             E-mail: <a
                                                 href="#"><span
                                                     class="__cf_email__"
-                                                    data-cfemail="ec818d8580ac8889818380858287c2839e8b">[email&#160;protected]</span>
+                                                    data-cfemail="ec818d8580ac8889818380858287c2839e8b">info@vmedia.mx</span>
                                             </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">www.vmedia.mx</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -1121,5 +747,6 @@
         </div>
     </div>
 </div>
-<script type='text/javascript' src='http://maps.googleapis.com/maps/api/js?v=3.exp&amp;language=en-GB&amp;libraries=places'></script>
+<script type='text/javascript'
+        src='http://maps.googleapis.com/maps/api/js?v=3.exp&amp;language=en-GB&amp;libraries=places'></script>
 <script type="text/javascript" src="<?php echo JS; ?>custom/map.js"></script>

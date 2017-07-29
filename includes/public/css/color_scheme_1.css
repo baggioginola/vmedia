@@ -42,334 +42,334 @@
     }
 }
 .camera_prevThumbs, .camera_nextThumbs, .camera_prev, .camera_next, .camera_commands, .camera_thumbs_cont {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .caroufredsel_prev, .caroufredsel_next {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .jg_subcatelem_txt {
     background: rgba(255, 49, 93, 0.6) none repeat scroll 0 0;
 }
 .jg_subcatelem_txt::before {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .jg_catelem_txt ul li a:hover {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .jg_imgalign_catimgs .jg_catelem_txt::before {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 #section-kmt .kmt-head .author-kmt a:hover {
-    color: #ff315d;
+    color: #FDA01D;
 }
 #section-kmt .kmt-inreplyto a:hover {
-    color: #ff315d;
+    color: #FDA01D;
 }
 #section-kmt .kmt-time::before {
-    color: #ff315d;
+    color: #FDA01D;
 }
 #section-kmt .kmt-time a:hover {
-    color: #ff315d;
+    color: #FDA01D;
 }
 #section-kmt .kmt-control-user .kmt-btn:hover {
-    color: #ff315d;
+    color: #FDA01D;
 }
 #section-kmt .kmt-like-counter:hover {
-    color: #ff315d;
+    color: #FDA01D;
 }
 #section-kmt .kmt-rank-progress {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 #Kunena div.kblock div.kheader table {
-    border-color: #ff315d;
+    border-color: #FDA01D;
 }
 #Kunena .kcol-category-icon {
-    color: #ff315d;
+    color: #FDA01D;
 }
 #Kunena span.kunreadforum, #Kunena span.knotloginforum, #Kunena .kwhoicon, #Kunena .kstatsicon {
-    color: #ff315d;
+    color: #FDA01D;
 }
 #Kunena .kcol-ktopicicon {
-    color: #ff315d;
+    color: #FDA01D;
 }
 #Kunena #kprofile-tabs dl.tabs dt.open, #Kunena #kprofile-edit dl.tabs dt.open, #Kunena #kprofile-tabs dl.tabs dt:hover, #Kunena #kprofile-edit dl.tabs dt:hover {
-    color: #ff315d;
+    color: #FDA01D;
 }
 #Kunena .kicon-profile-location::before, #Kunena .kicon-profile-gender-male::before, #Kunena .kicon-profile-birthdate::before, #Kunena .kicon-profile-email::before {
-    color: #ff315d;
+    color: #FDA01D;
 }
 #Kunena div.kthead-title a:hover {
-    color: #ff315d;
+    color: #FDA01D;
 }
 #Kunena .kwhoonline strong {
-    color: #ff315d;
+    color: #FDA01D;
 }
 #Kunena span.kcat-topics-number, #Kunena span.kcat-replies-number, #Kunena span.ktopic-views-number {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 #Kunena div.klatest-subject-by::before {
-    color: #ff315d;
+    color: #FDA01D;
 }
 #Kunena span.klatest-subject-time::before, #Kunena span.ktopic-date::before {
-    color: #ff315d;
+    color: #FDA01D;
 }
 #Kunena ul#kstatslistleft li strong, #Kunena ul#kstatslistright li strong {
-    color: #ff315d;
+    color: #FDA01D;
 }
 #Kunena div.klist-actions-info-all {
-    color: #ff315d;
+    color: #FDA01D;
 }
 #Kunena td.klist-actions-info-all {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .page-gallery__works .item_img .more_wrapper {
     background: rgba(255, 49, 93, 0.6) none repeat scroll 0 0;
 }
 ul#sort li a:hover {
-    color: #ff315d;
+    color: #FDA01D;
 }
 ul#sort li.active a {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .mod-newsflash-adv__counters .item_title {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .mod-newsflash-adv__pricing_simple .item .item_content [class*="heading-style"] {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .mod-newsflash-adv__pricing_simple .item .item_content .btn {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .mod-newsflash-adv__pricing_simple .item.featured .item_content {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .mod-newsflash-adv__pricing_detailed .item .item_content .btn:hover {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .tags li a {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .item_info .item_info_dl dd .item_createdby::before, .item_info .item_info_dl dd .item_hits::before, .item_info .item_info_dl dd .item_published::before, .item_info .item_info_dl dd .item_category-name::before, .item_info .item_info_dl dd .kmt-comment::before {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .item_info .item_info_dl dd a:hover {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .social-links li a:hover {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 #top ul li a:hover {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .copyright .year::after {
     content: "";
 }
 .copyright a:hover {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .icemegamenu > ul > li > a.iceMenuTitle:hover, .icemegamenu > ul > li > a.iceMenuTitle.hover, .icemegamenu > ul > li > a.iceMenuTitle.icemega_active {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .icemegamenu > ul > li.hover > a.iceMenuTitle {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 ul.icesubMenu li.active > a.iceMenuTitle, ul.icesubMenu li:hover > a.iceMenuTitle, ul.icesubMenu li.hover > a.iceMenuTitle {
-    color: #ff315d;
+    color: #FDA01D;
 }
 a {
-    color: #ff315d;
+    color: #FDA01D;
 }
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
-    color: #ff315d;
+    color: #FDA01D;
 }
 blockquote::before {
-    color: #ff315d;
+    color: #FDA01D;
 }
 blockquote cite {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .item_introtext strong, .item_fulltext strong, .category_desc strong {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .item_introtext mark, .item_fulltext mark, .category_desc mark {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 ol li::before {
-    color: #ff315d;
+    color: #FDA01D;
 }
 ol li a:hover {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .item_introtext ul li::before, .item_fulltext ul li::before, .category_desc ul li::before, .site_map ul li::before {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .item_introtext ul a:hover, .item_fulltext ul a:hover, .category_desc ul a:hover, .site_map ul a:hover {
-    color: #ff315d;
+    color: #FDA01D;
 }
 ul.icons li::before {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .portfolio-meta-list li strong {
-    color: #ff315d;
+    color: #FDA01D;
 }
 div.chzn-container .chzn-results li.highlighted {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 div.chzn-container-single .chzn-single div {
-    color: #ff315d;
+    color: #FDA01D;
 }
 div.chzn-container-single.chzn-container-active.chzn-with-drop .chzn-single div {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .input-prepend .add-on i, .input-prepend .add-on > span {
-    color: #ff315d;
+    color: #FDA01D;
 }
 table th {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 table a {
-    color: #ff315d;
+    color: #FDA01D;
 }
 dl.table dt {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 #Kunena div.kblock div.kheader > span {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus, .dropdown-submenu:hover > a, .dropdown-submenu:focus > a {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .btn {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .btn-info {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .btn-link {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .nav-tabs > li > a:hover, .nav-tabs > li > span:hover {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .nav-tabs > .active > a, .nav-tabs > .current > a, .nav-tabs > .active > span, .nav-tabs > .current > span {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .nav-list > .active > a, .nav-list > .active > a:hover, .nav-list > .active > a:focus {
-    background-color: #ff315d;
+    background-color: #FDA01D;
 }
 .nav-pills > .active > a, .nav-pills > .active > a:hover, .nav-pills > .active > a:focus {
-    background-color: #ff315d;
+    background-color: #FDA01D;
 }
 .nav .dropdown-toggle .caret {
-    border-bottom-color: #ff315d;
-    border-top-color: #ff315d;
+    border-bottom-color: #FDA01D;
+    border-top-color: #FDA01D;
 }
 .breadcrumb li.active {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .breadcrumb a:hover {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .pagination ul li > a:focus, .pagination ul li > span:focus {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .pagination ul li > .pagenav, .pagination ul li > .hasTooltip {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 a.thumbnail:hover, a.thumbnail:focus {
-    border-color: #ff315d;
+    border-color: #FDA01D;
 }
 .label, .badge {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 @keyframes progress-bar-stripes {
 }
 @keyframes progress-bar-stripes {
 }
 .progress-horizontal .bar {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .progress-vertical .bar {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .radial-progress svg path:last-child {
-    stroke: #ff315d !important;
+    stroke: #FDA01D !important;
 }
 .radial-progress .progressbar-text {
-    color: #ff315d !important;
+    color: #FDA01D !important;
 }
 .mod-bootstrap-collapse .accordion .accordion-group .accordion-heading .accordion-toggle.selected::before {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .mod-bootstrap-collapse .accordion .accordion-group .accordion-heading .accordion-toggle:hover::before {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .mod-bootstrap-collapse.mod-bootstrap-collapse__custom .accordion .accordion-group .accordion-heading .accordion-toggle::before {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .mod-bootstrap-collapse.mod-bootstrap-collapse__custom .accordion .accordion-group .accordion-heading .accordion-toggle.selected::before {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .mod-bootstrap-collapse.mod-bootstrap-collapse__custom .accordion .accordion-group .accordion-heading .accordion-toggle:hover::before {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .offline_container .well {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .offline_container .well .btn-primary:hover {
-    background: #ff315d none repeat scroll 0 0;
-    border-color: #ff315d;
+    background: #FDA01D none repeat scroll 0 0;
+    border-color: #FDA01D;
 }
 .mod-menu .nav.menu.nav-pills > li.active > a {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .icons .btn-group.pull-right ul.dropdown-menu > li > a:hover {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 #back-top a {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 #habla_window_div .habla_offline_submit_input {
-    background: #ff315d none repeat scroll 0 0 !important;
+    background: #FDA01D none repeat scroll 0 0 !important;
 }
 #habla_window_div #habla_topbar_div {
-    background: #ff315d none repeat scroll 0 0 !important;
+    background: #FDA01D none repeat scroll 0 0 !important;
 }
 *::-moz-selection {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .icemega_modulewrap.top_search i.fa-times {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .login_shell {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 div#fixed-sidebar-right .moduletable.login > i.fa-user {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 div#fixed-sidebar-right .moduletable.login .mod_login_wrapper {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .page-category__history .items-row > div::before {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .page-category__history .items-row::before {
-    background: #ff315d none repeat scroll 0 0;
+    background: #FDA01D none repeat scroll 0 0;
 }
 .page-category__faqs .item_title span.item_title_part0 {
-    color: #ff315d;
+    color: #FDA01D;
 }
 .contact_details .icons-marker {
-    color: #ff315d;
+    color: #FDA01D;
 }
 @media (max-width: 767px) {
     .rd-mobilemenu_ul a.iceMenuTitle:hover {
-        background: #ff315d none repeat scroll 0 0;
+        background: #FDA01D none repeat scroll 0 0;
     }
     .rd-mobilemenu_ul a.active, .rd-mobilemenu_ul li.level_1.active > a {
-        background: #ff315d none repeat scroll 0 0;
+        background: #FDA01D none repeat scroll 0 0;
     }
     .rd-mobilemenu_submenu li.active > a {
-        color: #ff315d;
+        color: #FDA01D;
     }
 }

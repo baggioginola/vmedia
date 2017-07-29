@@ -1,11 +1,10 @@
 <div class="headerContent">
     <a id="fake" href='#'></a>
-
+    <!--
     <div id="top">
         <div class="moduletable pull-right">
             <div class="module_container">
                 <div class="mod-menu">
-
                 </div>
             </div>
         </div>
@@ -27,26 +26,13 @@
             </div>
         </div>
     </div>
-
+    !-->
     <div id="header">
         <div class="top-container">
 
             <div id="logo">
                 <a href="#">
-                    <img src="<?php echo IMAGES; ?>logo.png" alt="88 Channel">
-
-                    <h1><span
-                            class="item_title_char0 item_title_char_odd item_title_char_first_half item_title_char_first">8</span><span
-                            class="item_title_char1 item_title_char_even item_title_char_first_half">8</span><span
-                            class="item_title_char2 item_title_char_odd item_title_char_first_half"> </span><span
-                            class="item_title_char3 item_title_char_even item_title_char_first_half">C</span><span
-                            class="item_title_char4 item_title_char_odd item_title_char_first_half">h</span><span
-                            class="item_title_char5 item_title_char_even item_title_char_second_half">a</span><span
-                            class="item_title_char6 item_title_char_odd item_title_char_second_half">n</span><span
-                            class="item_title_char7 item_title_char_even item_title_char_second_half">n</span><span
-                            class="item_title_char8 item_title_char_odd item_title_char_second_half">e</span><span
-                            class="item_title_char9 item_title_char_even item_title_char_second_half item_title_char_last">l</span>
-                    </h1>
+                    <img src="<?php echo IMAGES; ?>logo.png" alt="VMedia Comunicación">
                 </a>
             </div>
             <nav class="moduletable home_menu">
@@ -61,18 +47,18 @@
                             </li>
                             <li id="iceMenu_134" class="iceMenuLiLevel_1 ">
                                 <a href="about" class=" iceMenuTitle ">
-                                    <span class="icemega_title icemega_nosubtitle">Acerca</span>
+                                    <span class="icemega_title icemega_nosubtitle">Nosotros</span>
                                 </a>
                             </li>
                             <li id="iceMenu_335" class="iceMenuLiLevel_1">
                                 <a class=" iceMenuTitle ">
-                                    <span class="icemega_title icemega_nosubtitle">Proyectos</span>
+                                    <span class="icemega_title icemega_nosubtitle">Servicios</span>
                                 </a>
                             </li>
 
                             <li id="iceMenu_203" class="iceMenuLiLevel_1 gallery">
                                 <a href="#" class=" iceMenuTitle ">
-                                    <span class="icemega_title icemega_nosubtitle">Galeria</span>
+                                    <span class="icemega_title icemega_nosubtitle">Clientes</span>
                                 </a>
                             </li>
                             <li id="iceMenu_142" class="iceMenuLiLevel_1 ">

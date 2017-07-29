@@ -7,14 +7,17 @@
  */
 
 
-$app->get('/', function() use ($app) {
-    $app->render('index.php');
+$app->get('/', function () use ($app) {
+    global $settings;
+    $app->render('index.php', array(
+        'settings' => $settings
+    ));
 });
 
-$app->get('/about', function() use ($app) {
+$app->get('/about', function () use ($app) {
     $app->render('about.php');
 });
 
-$app->get('/contact', function() use ($app) {
+$app->get('/contact', function () use ($app) {
     $app->render('contact.php');
 });

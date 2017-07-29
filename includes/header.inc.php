@@ -18,6 +18,13 @@ if (strcasecmp(ENVIRONMENT, 'test') == 0) {
 
 \Slim\Slim::registerAutoloader();
 
+$settings = array(
+    'CSS' => CSS,
+    'JS' => JS,
+    'IMG' => IMAGES,
+    'DOMAIN' => DOMAIN
+);
+
 $app  = new \Slim\Slim(array(
         'debug' => true,
         'templates.path' => 'app/view/',

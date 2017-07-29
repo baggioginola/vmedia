@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="<?php echo CSS; ?>icemegamenu/icemegamenu.css"/>
     <link rel="stylesheet" href="<?php echo CSS; ?>icemegamenu/navbar.css"/>
     <link rel="stylesheet" href="<?php echo CSS; ?>color_scheme_1.css"/>
+    <link rel="stylesheet" href="<?php echo CSS; ?>style.css"/>
 
     <script type="text/javascript" src="<?php echo JS; ?>jquery.min.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>jquery-noconflict.js"></script>
