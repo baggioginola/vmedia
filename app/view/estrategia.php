@@ -17,20 +17,6 @@
                                 <div class="mod-article-single mod-article-single__" id="module_226">
                                     <div class="item__module" id="item_198">
 
-                                        <!-- Intro Text -->
-                                        <div class="item_introtext"
-                                             style="font-weight: bold; padding-bottom: 100px; text-shadow: 1px 1px black; text-align: justify;">
-                                            <p>
-                                                Sea una MIPYME o gran empresa, siempre existen necesidades comunicativas.
-                                                <br>
-                                                Enfocamos nuestras capacidades para lograr lo que desean nuestros clientes.
-                                                <br>
-                                                Potenciamos ideas que se transformen en estrategias, para producir acciones que se integren
-                                                a la perfección en todas las áreas de la organización.
-
-                                            </p>
-                                        </div>
-
                                         <div class="row-fluid">
                                             <div class="moduletable center  span4" style="padding-bottom: 50px;">
                                                 <a class="btn btn-info readmore"
@@ -44,6 +30,20 @@
                                                 <a class="btn btn-info active"
                                                    href="#""><span>estrategia</span></a>
                                             </div>
+                                        </div>
+
+                                        <!-- Intro Text -->
+                                        <div class="item_introtext"
+                                             style="font-weight: bold; padding-bottom: 100px; text-shadow: 1px 1px black; text-align: justify;">
+                                            <p>
+                                                Sea una MIPYME o gran empresa, siempre existen necesidades comunicativas.
+                                                <br>
+                                                Enfocamos nuestras capacidades para lograr lo que desean nuestros clientes.
+                                                <br>
+                                                Potenciamos ideas que se transformen en estrategias, para producir acciones que se integren
+                                                a la perfección en todas las áreas de la organización.
+
+                                            </p>
                                         </div>
 
                                     </div>

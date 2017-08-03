@@ -17,6 +17,20 @@
                                 <div class="mod-article-single mod-article-single__" id="module_226">
                                     <div class="item__module" id="item_198">
 
+                                        <div class="row-fluid">
+                                            <div class="moduletable center  span4" style="padding-bottom: 50px;">
+                                                <a class="btn btn-info readmore"
+                                                   href="<?php echo DOMAIN; ?>creatividad"><span>Creatividad</span></a>
+                                            </div>
+                                            <div class="moduletable center  span4" style="padding-bottom: 50px;">
+                                                <a class="btn btn-info active"
+                                                   href="#"><span>Impacto</span></a>
+                                            </div>
+                                            <div class="moduletable center  span4" style="padding-bottom: 50px;">
+                                                <a class="btn btn-info readmore"
+                                                   href="<?php echo DOMAIN; ?>estrategia"><span>estrategia</span></a>
+                                            </div>
+                                        </div>
                                         <!-- Intro Text -->
                                         <div class="item_introtext"
                                              style="font-weight: bold; padding-bottom: 100px; text-shadow: 1px 1px black; text-align: justify;">
@@ -42,20 +56,7 @@
 
                                         </div>
 
-                                        <div class="row-fluid">
-                                            <div class="moduletable center  span4" style="padding-bottom: 50px;">
-                                                <a class="btn btn-info readmore"
-                                                   href="<?php echo DOMAIN; ?>creatividad"><span>Creatividad</span></a>
-                                            </div>
-                                            <div class="moduletable center  span4" style="padding-bottom: 50px;">
-                                                <a class="btn btn-info active"
-                                                   href="#"><span>Impacto</span></a>
-                                            </div>
-                                            <div class="moduletable center  span4" style="padding-bottom: 50px;">
-                                                <a class="btn btn-info readmore"
-                                                   href="<?php echo DOMAIN; ?>estrategia"><span>estrategia</span></a>
-                                            </div>
-                                        </div>
+
 
                                     </div>
                                 </div>

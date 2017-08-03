@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-mx" lang="es-mx">
 <head>
-    <link rel="stylesheet" href="<?php echo CSS; ?>chosen.css"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
     <link rel="stylesheet" href="<?php echo CSS; ?>layout.css"/>
     <link rel="stylesheet" href="<?php echo CSS; ?>template.css"/>
     <link rel="stylesheet" href="<?php echo CSS; ?>font-awesome-4.6.1/css/font-awesome.min.css"/>
@@ -16,7 +17,6 @@
     <script type="text/javascript" src="<?php echo JS; ?>jquery-noconflict.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>jquery-migrate.min.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>bootstrap.min.js"></script>
-    <script type="text/javascript" src="<?php echo JS; ?>chosen.jquery.min.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>script.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>autosize.min.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>jquery-youtube.js"></script>
@@ -24,7 +24,6 @@
     <script type="text/javascript" src="<?php echo JS; ?>camera.min.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>icemegamenu/menu.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>icemegamenu/navbar.js"></script>
-    <script type="text/javascript" src="<?php echo JS; ?>googlemapsv3.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>custom/scroll-top.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>custom/scripts.js"></script>
     <title>VMedia Comunicacion</title>

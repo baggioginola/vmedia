@@ -8,7 +8,7 @@
                         <div class="copyright span12">
 
                             <a class="footer_logo" href="#">
-                                <img src="includes/public/img/flogo.png" alt="88 Channel">
+                                <img src="<?php echo IMAGES; ?>vmedia.png" alt="VMedia Comunicación" width="300">
                             </a>
 
                             <div>

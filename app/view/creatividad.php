@@ -17,19 +17,6 @@
                                 <div class="mod-article-single mod-article-single__" id="module_226">
                                     <div class="item__module" id="item_198">
 
-                                        <!-- Intro Text -->
-                                        <div class="item_introtext"
-                                             style="font-weight: bold; padding-bottom: 100px; text-shadow: 1px 1px black; text-align: justify;">
-                                            <p>Somos una agencia de comunicación integral, integrada por un equipo
-                                                multidisciplinario de profesionales en diversas áreas. Lo que permite
-                                                ofrecer una gran creatividad para la solución de necesidades concretas
-                                            </p>
-
-                                            <p>Tenemos más de 12 años de experiencia innovando soluciones para nuestros
-                                                clientes.</p>
-
-                                        </div>
-
                                         <div class="row-fluid">
                                             <div class="moduletable center  span4" style="padding-bottom: 50px;">
                                                 <a class="btn btn-info active"
@@ -44,6 +31,20 @@
                                                    href="<?php echo DOMAIN; ?>estrategia"><span>estrategia</span></a>
                                             </div>
                                         </div>
+                                        <!-- Intro Text -->
+                                        <div class="item_introtext"
+                                             style="font-weight: bold; padding-bottom: 100px; text-shadow: 1px 1px black; text-align: justify;">
+                                            <p>Somos una agencia de comunicación integral, integrada por un equipo
+                                                multidisciplinario de profesionales en diversas áreas. Lo que permite
+                                                ofrecer una gran creatividad para la solución de necesidades concretas
+                                            </p>
+
+                                            <p>Tenemos más de 12 años de experiencia innovando soluciones para nuestros
+                                                clientes.</p>
+
+                                        </div>
+
+
 
                                     </div>
                                 </div>

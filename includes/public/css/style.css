@@ -1,8 +1,20 @@
-.clientes{
+.clientes {
     padding-bottom: 50px;
 }
 
 .clientes span {
     color: #2B3C67;
     font: 18px/24px "Montserrat", sans-serif;
+}
+
+.slide-title {
+    text-shadow: 2px 2px black;
+}
+
+.camera_caption div.inner .slide-title{
+    box-shadow: 0px 8px 6px -6px black;
+}
+
+.cameraSlide{
+    opacity: 0.6;
 }
