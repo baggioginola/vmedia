@@ -33,14 +33,15 @@
                                         </div>
                                         <!-- Intro Text -->
                                         <div class="item_introtext"
-                                             style="font-weight: bold; padding-bottom: 100px; text-shadow: 1px 1px black; text-align: justify;">
-                                            <p>Somos una agencia de comunicación integral, integrada por un equipo
-                                                multidisciplinario de profesionales en diversas áreas. Lo que permite
-                                                ofrecer una gran creatividad para la solución de necesidades concretas
+                                             style="font-weight: bold; padding-bottom: 100px; text-shadow: 1px 1px black; text-align: left; margin: 0 auto; width: 50%;">
+                                            <p><span style="font-size: 22px;">Somos una agencia de comunicación integral</span>,<br>
+                                                formada por un equipo multidisciplinario en diversas áreas.<br>
+                                                Lo que permite ofrecer una gran creatividad<br>
+                                                para la solución de necesidades concretas
+
                                             </p>
 
-                                            <p>Tenemos más de 12 años de experiencia innovando soluciones para nuestros
-                                                clientes.</p>
+                                            <p>Tenemos más de 12 años de experiencia innovando soluciones para nuestros clientes.</p>
 
                                         </div>
 

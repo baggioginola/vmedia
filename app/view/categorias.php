@@ -1,4 +1,4 @@
-<div class="moduletable tabs">
+<div class="moduletable tabs" id="servicios">
     <div class="module_container">
         <div class="tab-content" id="bootstrap_tabs_content_214">
             <div class="tab-pane fade active in" id="tab1-214">
@@ -8,7 +8,7 @@
                     <div class="item_introtext">
                         <div class="moduletable">
                             <div class="mod-newsflash-adv tabs mod-newsflash-adv__ cols-3" id="module_213">
-                                <div class="row-fluid" id="servicios">
+                                <div class="row-fluid">
                                     <article class="span0 item item_num0 item__module  " id="item_141">
                                         <div class="item_content">
 

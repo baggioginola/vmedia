@@ -33,11 +33,10 @@
                                         </div>
                                         <!-- Intro Text -->
                                         <div class="item_introtext"
-                                             style="font-weight: bold; padding-bottom: 100px; text-shadow: 1px 1px black; text-align: justify;">
+                                             style="font-weight: bold; padding-bottom: 100px; text-shadow: 1px 1px black; text-align: left; margin: 0 auto; width: 50%;">
                                             <p>
-                                                Producimos imágenes y contenidos de alto impacto que muevan a la gente,
-                                                que
-                                                los hagan actuar y lograr los objetivos planeados.
+                                                Producimos imágenes y contenidos de alto impacto que muevan a la gente,<br>
+                                                que los hagan actuar y lograr los objetivos planeados.
                                                 <br>
                                                 ¿Para qué? Solo por mencionar 3 puntos:
                                             </p>

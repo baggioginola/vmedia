@@ -50,7 +50,6 @@
                 <div class="camera-item"
                      data-src="<?php echo IMAGES; ?>slider/estrategia.jpg">
                     <div class="camera_caption fadeIn">
-                        <figcaption>new!</figcaption>
                         <div class="inner">
                             <h1 class="slide-title">
                                         <span

@@ -1,5 +1,4 @@
 <div class="headerContent">
-    <a id="fake" href='#'></a>
     <div id="header">
         <div class="top-container">
 
@@ -10,38 +9,38 @@
             </div>
             <nav class="moduletable home_menu">
                 <div class="module_container">
-                    <div class="icemegamenu">
-                        <ul id="icemegamenu">
-                            <li id="iceMenu_101" class="iceMenuLiLevel_1 current active fullwidth">
+                    <div class="icemegamenu" id="icemegamenu">
+                        <ul>
+                            <li>
                                 <a href="<?php echo DOMAIN; ?>"
-                                   class="icemega_active iceMenuTitle ">
+                                   class="iceMenuTitle ">
                                     <span class="icemega_title icemega_nosubtitle">Inicio</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="<?php echo DOMAIN; ?>creatividad" class="iceMenuTitle">
+                                <a href="<?php echo DOMAIN; ?>creatividad" class="iceMenuTitle" id="menu_nosotros">
                                     <span class="icemega_title icemega_nosubtitle">Nosotros</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="<?php echo DOMAIN; ?>#servicios" class="iceMenuTitle">
+                                <a href="<?php echo DOMAIN; ?>#servicios" class="iceMenuTitle" id="menu_servicios" onclick="setActive(this);">
                                     <span class="icemega_title icemega_nosubtitle">Servicios</span>
                                 </a>
                             </li>
 
                             <li>
-                                <a href="<?php echo DOMAIN; ?>#demo" class="iceMenuTitle">
+                                <a href="<?php echo DOMAIN; ?>#demo" class="iceMenuTitle" onclick="setActive(this);">
                                     <span class="icemega_title icemega_nosubtitle">Demo</span>
                                 </a>
                             </li>
 
                             <li>
-                                <a href="<?php echo DOMAIN; ?>#clientes" class=" iceMenuTitle ">
+                                <a href="<?php echo DOMAIN; ?>#clientes" class=" iceMenuTitle" onclick="setActive(this);">
                                     <span class="icemega_title icemega_nosubtitle">Clientes</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="<?php echo DOMAIN; ?>#contacto" class=" iceMenuTitle ">
+                                <a href="<?php echo DOMAIN; ?>#contacto" class="iceMenuTitle" onclick="setActive(this);">
                                     <span class="icemega_title icemega_nosubtitle">Contacto</span>
                                 </a>
                             </li>

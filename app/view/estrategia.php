@@ -34,14 +34,13 @@
 
                                         <!-- Intro Text -->
                                         <div class="item_introtext"
-                                             style="font-weight: bold; padding-bottom: 100px; text-shadow: 1px 1px black; text-align: justify;">
+                                             style="font-weight: bold; padding-bottom: 100px; text-shadow: 1px 1px black; text-align: left; margin: 0 auto; width: 50%;">
                                             <p>
-                                                Sea una MIPYME o gran empresa, siempre existen necesidades comunicativas.
-                                                <br>
-                                                Enfocamos nuestras capacidades para lograr lo que desean nuestros clientes.
-                                                <br>
-                                                Potenciamos ideas que se transformen en estrategias, para producir acciones que se integren
-                                                a la perfección en todas las áreas de la organización.
+                                                Sea una MIPYME o gran empresa, siempre existen necesidades comunicativas.<br>
+                                                Enfocamos nuestras capacidades para lograr lo que desean nuestros clientes.<br>
+                                                Potenciamos ideas que se transformen en estrategias,<br>
+                                                para producir acciones que se integren a la perfección<br>
+                                                en todas las áreas de la organización.
 
                                             </p>
                                         </div>

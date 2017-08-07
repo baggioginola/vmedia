@@ -7921,6 +7921,7 @@ th .tooltip-inner {
 
 body {
     font-weight: 300;
+    position:relative;
 }
 
 body:after {

@@ -5,9 +5,8 @@
                 <div id='mapplaceholder8_ly2cs_0'>
                     <div id='mapbody8_ly2cs_0' style="text-align:center">
                         <iframe frameborder="0" height="400"
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.9276588089538!2d-98.30657168509903!3d19.06691798709317!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc0e1299aa007%3A0x9d70ef60b6968fa8!2sVmediaComunicacion!5e0!3m2!1ses-419!2smx!4v1496799312182"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.927658808955!2d-98.30657168553226!3d19.066917987093117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc0e1299aa007%3A0x9d70ef60b6968fa8!2sFeelMakers+Wedding+Cinematography!5e0!3m2!1ses!2smx!4v1502068026250"
                                 style="border:0" width="100%"></iframe>
-
                     </div>
                 </div>
             </div>

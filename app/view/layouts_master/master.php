@@ -26,6 +26,7 @@
     <script type="text/javascript" src="<?php echo JS; ?>icemegamenu/navbar.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>custom/scroll-top.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>custom/scripts.js"></script>
+    <script type="text/javascript" src="<?php echo JS; ?>custom/menu.js"></script>
     <title>VMedia Comunicacion</title>
 
 </head>
@@ -41,5 +42,7 @@
 </div>
 
 <?php require_once TEMPLATE . 'footer_wrapper.php'; ?>
+
+<script type="text/javascript" src="<?php echo JS; ?>custom/scroll_nav.js"></script>
 </body>
 </html>

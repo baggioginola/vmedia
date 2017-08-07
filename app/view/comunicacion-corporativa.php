@@ -15,31 +15,6 @@
                             <div class="moduletable span12">
 
                                 <div class="row-fluid">
-                                    <div class="moduletable center  span6" style="padding-bottom: 50px;">
-                                        <h3 style="margin-bottom: 20px;">Comunicación Corporativa</h3>
-                                        <img src="<?php echo IMAGES; ?>iconos/organizacional.png">
-                                    </div>
-
-                                    <div class="moduletable center  span6" style="padding-bottom: 50px;">
-                                        <div class="item_introtext"
-                                             style="font-weight: bold; text-shadow: 1px 1px black; text-align: justify;">
-                                            <ul>
-                                                <li>Diagnósticos y programas de clima laboral</li>
-                                                <li>Gestión del cambio
-                                                    organizacional y cultura corporativa
-                                                </li>
-                                                <li>Elaboración de medios
-                                                    internos
-                                                </li>
-                                                <li>Responsabilidad social corporativa</li>
-                                                <li>Boletin y conferencias de prensa</li>
-
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="row-fluid">
                                     <div class="moduletable center  span2" style="padding-bottom: 50px;">
                                         <a href="<?php echo DOMAIN; ?>produccion-audiovisual"><img
                                                 src="<?php echo IMAGES; ?>iconos/estudio.png"><br><br>Producción
@@ -68,6 +43,33 @@
                                             Corporativa</a>
                                     </div>
                                 </div>
+
+                                <div class="row-fluid">
+                                    <div class="moduletable center  span6" style="padding-bottom: 50px;">
+                                        <h3 style="margin-bottom: 20px;">Comunicación Corporativa</h3>
+                                        <img src="<?php echo IMAGES; ?>iconos/organizacional.png">
+                                    </div>
+
+                                    <div class="moduletable center  span6" style="padding-bottom: 50px;">
+                                        <div class="item_introtext"
+                                             style="font-weight: bold; text-shadow: 1px 1px black; text-align: justify;">
+                                            <ul>
+                                                <li>Diagnósticos y programas de clima laboral</li>
+                                                <li>Gestión del cambio
+                                                    organizacional y cultura corporativa
+                                                </li>
+                                                <li>Elaboración de medios
+                                                    internos
+                                                </li>
+                                                <li>Responsabilidad social corporativa</li>
+                                                <li>Boletin y conferencias de prensa</li>
+
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+
                             </div>
                         </div>
                     </div>

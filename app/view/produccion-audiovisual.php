@@ -13,32 +13,6 @@
                     <div class="container">
                         <div class="row">
                             <div class="moduletable span12">
-
-                                <div class="row-fluid">
-                                    <div class="moduletable center  span6" style="padding-bottom: 50px;">
-                                        <h3 style="margin-bottom: 20px;">Producción Audiovisual</h3>
-                                        <img src="<?php echo IMAGES; ?>iconos/estudio.png">
-                                    </div>
-
-                                    <div class="moduletable center  span6" style="padding-bottom: 50px;">
-                                        <div class="item_introtext"
-                                             style="font-weight: bold; text-shadow: 1px 1px black; text-align: justify;">
-                                            <ul>
-                                                <li>Videos corporativos</li>
-                                                <li>Cápsulas de capacitación</li>
-                                                <li>Spots de Radio y TV</li>
-                                                <li>Cineminutos y documentales</li>
-                                                <li>Animación 2D y 3D</li>
-                                                <li>Motion graphics y efectos
-                                                    visuales
-                                                </li>
-                                                <li>Cobertura de eventos</li>
-                                                <li>Tomas aéreas</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-
                                 <div class="row-fluid">
                                     <div class="moduletable center  span2" style="padding-bottom: 50px;">
                                         <a href="#" style="color:#fff;"><img
@@ -65,6 +39,34 @@
                                                 src="<?php echo IMAGES; ?>iconos/organizacional.png"><br><br>Comunicación Corporativa</a>
                                     </div>
                                 </div>
+                                <div class="row-fluid">
+
+
+                                    <div class="moduletable center  span6" style="padding-bottom: 50px;">
+                                        <h3 style="margin-bottom: 20px;">Producción Audiovisual</h3>
+                                        <img src="<?php echo IMAGES; ?>iconos/estudio.png">
+                                    </div>
+
+                                    <div class="moduletable center  span6" style="padding-bottom: 50px;">
+                                        <div class="item_introtext"
+                                             style="font-weight: bold; text-shadow: 1px 1px black; text-align: justify;">
+                                            <ul>
+                                                <li>Videos corporativos</li>
+                                                <li>Cápsulas de capacitación</li>
+                                                <li>Spots de Radio y TV</li>
+                                                <li>Cineminutos y documentales</li>
+                                                <li>Animación 2D y 3D</li>
+                                                <li>Motion graphics y efectos
+                                                    visuales
+                                                </li>
+                                                <li>Cobertura de eventos</li>
+                                                <li>Tomas aéreas</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+
                             </div>
                         </div>
                     </div>
