@@ -19,7 +19,6 @@
     <script type="text/javascript" src="<?php echo JS; ?>bootstrap.min.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>script.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>autosize.min.js"></script>
-    <script type="text/javascript" src="<?php echo JS; ?>jquery-youtube.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>parallax.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>camera.min.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>icemegamenu/menu.js"></script>
