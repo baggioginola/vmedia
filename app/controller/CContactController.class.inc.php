@@ -13,8 +13,8 @@ class Contact extends BaseController
     public static $object = null;
 
     private $parameters = array();
-    private $send_to = 'mariocuevas88@gmail.com';
-    private $subject = 'Contacto de Pagina Web';
+    private $send_to = 'info@vmedia.mx';
+    private $subject = 'Contacto de Pagina Web VMedia';
     private $header = 'From:  Sitio Web <info@vmedia.mx>';
     private $message = '';
 

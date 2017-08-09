@@ -33,7 +33,7 @@
                                                                                      placeholder="Nombre"
                                                                                      name="name" id="id_name"
                                                                                      class="mod_tm_ajax_contact_form_text hasTooltip"
-                                                                                     required="true" title="Nombre">
+                                                                                     required="true" title="Nombre" autocomplete="off">
                                                         </div>
                                                     </div>
                                                     <div class="control control-group-input span6">
@@ -41,7 +41,7 @@
                                                                                      placeholder="E-mail"
                                                                                      name="e_mail" id="id_email"
                                                                                      class="mod_tm_ajax_contact_form_email hasTooltip"
-                                                                                     required="true" title="E-mail">
+                                                                                     required="true" title="E-mail" autocomplete="off">
                                                         </div>
                                                     </div>
                                                     <div class="control control-group-input span12">
@@ -50,7 +50,7 @@
                                                                                         id="id_mensaje"
                                                                                         class="mod_tm_ajax_contact_form_textarea hasTooltip"
                                                                                         required="true"
-                                                                                        title="Mensaje"></textarea>
+                                                                                        title="Mensaje" autocomplete="off"></textarea>
                                                         </div>
                                                     </div>
                                                     <div class="control control-group-button span12">
@@ -68,10 +68,6 @@
                                 </div>
                             </div>
                         </div>
-                        <div id="system-message-container">
-                        </div>
-                        <section class="page-category page-category__home">
-                        </section>
                     </main>
                 </div>
             </div>

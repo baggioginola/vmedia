@@ -13,7 +13,13 @@ jQuery(document).ready(function(){
             async: false,
             success: function (data) {
                 form.trigger("reset");
-                bootbox.alert('Gracias por contactarnos');
+                /*
+                jQuery('#system-message-container').slideUp();
+                jQuery('#system-message-container').text('Gracias por contactarnos');
+                jQuery('#system-message-container').slideDown();
+                */
+
+                alert('Gracias por contactarnos');
             }
         });
         return false;
