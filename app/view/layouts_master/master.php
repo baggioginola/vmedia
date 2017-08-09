@@ -28,7 +28,6 @@
     <script type="text/javascript" src="<?php echo JS; ?>custom/scripts.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>custom/menu.js"></script>
     <script src="<?php echo JS; ?>custom/config.js" type="text/javascript"></script>
-    <script src="<?php echo JS; ?>bootbox.min.js"></script>
     <script src="<?php echo JS; ?>custom/contact.js" type="text/javascript"></script>
     <title>VMedia Comunicacion</title>
 
