@@ -1,4 +1,5 @@
-<div class="moduletable" id="clientes">
+<span class="anchor" id="clientes"></span>
+<div class="moduletable" >
     <div class="module_container">
         <div class="parallax parallax__" data-url="<?php echo IMAGES; ?>fondo_clientes.jpg" data-speed="0.8"
              data-direction="true" data-mobile="true" data-blur="false">

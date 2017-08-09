@@ -34,7 +34,6 @@ jQuery(document).ready(function() {
         var href = jQuery(this).attr('href');
         if(url === href){
             jQuery(this).addClass('icemega_active');
-            console.log(href);
         }
     });
 });

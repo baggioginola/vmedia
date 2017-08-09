@@ -1,4 +1,5 @@
-<div class="moduletable tabs" id="servicios">
+<span class="anchor" id="servicios"></span>
+<div class="moduletable tabs" id="">
     <div class="module_container">
         <div class="tab-content" id="bootstrap_tabs_content_214">
             <div class="tab-pane fade active in" id="tab1-214">
@@ -14,12 +15,13 @@
 
                                             <figure class="item_img img-intro img-intro__none">
                                                 <img
-                                                    src="<?php echo IMAGES; ?>categorias/produccion_audiovisual.jpg"
-                                                    alt="Channel"/>
+                                                        src="<?php echo IMAGES; ?>categorias/produccion_audiovisual.jpg"
+                                                        alt="Channel"/>
 
                                                 <div class="caption">
                                                     <h3 class="item_title item_title__" style="font-size: 30px;">
-                                                        <a href="<?php echo DOMAIN; ?>produccion-audiovisual">Producción Audiovisual</a>
+                                                        <a href="<?php echo DOMAIN; ?>produccion-audiovisual">Producción
+                                                            Audiovisual</a>
                                                     </h3>
                                                 </div>
                                             </figure>
@@ -34,8 +36,8 @@
                                         <div class="item_content">
                                             <figure class="item_img img-intro img-intro__none">
                                                 <img
-                                                    src="<?php echo IMAGES; ?>categorias/fotografia.jpg"
-                                                    alt="fotografia">
+                                                        src="<?php echo IMAGES; ?>categorias/fotografia.jpg"
+                                                        alt="fotografia">
 
                                                 <div class="caption">
                                                     <h3 class="item_title item_title__" style="font-size: 30px;">
@@ -55,12 +57,13 @@
 
                                             <figure class="item_img img-intro img-intro__none">
                                                 <img
-                                                    src="<?php echo IMAGES; ?>categorias/web.jpg"
-                                                    alt="Channel,">
+                                                        src="<?php echo IMAGES; ?>categorias/web.jpg"
+                                                        alt="Channel,">
 
                                                 <div class="caption">
                                                     <h3 class="item_title item_title__" style="font-size: 30px;">
-                                                        <a href="<?php echo DOMAIN; ?>web-multimedia">WEB & Multimedia</a>
+                                                        <a href="<?php echo DOMAIN; ?>web-multimedia">WEB &
+                                                            Multimedia</a>
                                                     </h3>
                                                 </div>
                                             </figure>
@@ -78,8 +81,8 @@
 
                                             <figure class="item_img img-intro img-intro__none">
                                                 <img
-                                                    src="<?php echo IMAGES; ?>categorias/redes.jpg"
-                                                    alt="Channel,">
+                                                        src="<?php echo IMAGES; ?>categorias/redes.jpg"
+                                                        alt="Channel,">
 
                                                 <div class="caption">
                                                     <h3 class="item_title item_title__" style="font-size: 30px;">
@@ -99,12 +102,13 @@
 
                                             <figure class="item_img img-intro img-intro__none">
                                                 <img
-                                                    src="<?php echo IMAGES; ?>categorias/publicidad.jpg"
-                                                    alt="Channel,">
+                                                        src="<?php echo IMAGES; ?>categorias/publicidad.jpg"
+                                                        alt="Channel,">
 
                                                 <div class="caption">
                                                     <h3 class="item_title item_title__" style="font-size: 30px;">
-                                                        <a href="<?php echo DOMAIN; ?>branding-publicidad">Branding & Publicidad</a>
+                                                        <a href="<?php echo DOMAIN; ?>branding-publicidad">Branding &
+                                                            Publicidad</a>
                                                     </h3>
                                                 </div>
                                             </figure>
@@ -121,12 +125,13 @@
 
                                             <figure class="item_img img-intro img-intro__none">
                                                 <img
-                                                    src="<?php echo IMAGES; ?>categorias/corporativa.jpg"
-                                                    alt="Channel,">
+                                                        src="<?php echo IMAGES; ?>categorias/corporativa.jpg"
+                                                        alt="Channel,">
 
                                                 <div class="caption">
                                                     <h3 class="item_title item_title__" style="font-size: 30px;">
-                                                        <a href="<?php echo DOMAIN; ?>comunicacion-corporativa">Comunicación Corporativa</a>
+                                                        <a href="<?php echo DOMAIN; ?>comunicacion-corporativa">Comunicación
+                                                            Corporativa</a>
                                                     </h3>
                                                 </div>
                                             </figure>

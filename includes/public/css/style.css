@@ -18,3 +18,10 @@
 .cameraSlide{
     opacity: 0.6;
 }
+
+.anchor{
+    display:block;
+    height:65px; /* this is the height of your header */
+    margin-top:-65px; /* this is again negative value of the height of your header */
+    visibility:hidden;
+}
