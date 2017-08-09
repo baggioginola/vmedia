@@ -13,7 +13,7 @@
 
                             <div>
                                 <span class="siteName">VMedia</span>
-                                <span class="copy">&copy;</span><span class="year">2016</span>
+                                <span class="copy">&copy;</span><span class="year">2017</span>
                             </div>
                         </div>
                     </div>
