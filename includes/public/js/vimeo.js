@@ -54,9 +54,7 @@
             }
         }, onPlayerReady: function (video) {
             video.player.setVolume(0);
-            video.player.on('play', function() {
-                video.resize();
-            });
+            video.resize();
         }, resize: function () {
             var video = this;
             var $el = $('#' + video.$wrap.attr('id'));
@@ -75,6 +73,7 @@
 
             var div = document.getElementById('player');
 
+            console.log(div);
             var iFrame = div.getElementsByTagName("iframe")[0];
 
             iFrame.setAttribute('width', $el.width());
@@ -91,10 +90,12 @@
                 id: 227856242,
                 autoplay: true,
                 title: false,
-                loop:true
+                loop: true
             });
 
-            video.onPlayerReady(video);
+            video.player.ready().then(function(){
+                video.onPlayerReady(video);
+            });
         }
     };
     $.fn.rdyoutubebg = function (option) {

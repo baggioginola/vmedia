@@ -1,13 +1,10 @@
-<script type="text/javascript" src="<?php echo JS; ?>custom/fixed.js"></script>
+<script type="text/javascript" src="<?php echo JS; ?>custom/fixed.js" ></script>
+<script type="text/javascript" src="<?php echo JS; ?>vimeo.js" ></script>
 <div id="maintop">
     <div class="moduletable  padding center">
         <div class="module_container">
-            <div class="parallax parallax__ padding center"
-                 data-url="<?php echo IMAGES; ?>categorias/produccion_audiovisual.jpg"
-                 data-speed="0.8"
-                 data-direction="true"
-                 data-mobile="true"
-                 data-blur="false">
+            <div id="player" class="rd-youtube-bg" data-video-id="Tz_ozrcAmlk" data-mute="true"
+                 data-image-url="<?php echo IMAGES; ?>parallax/parallax4.jpg" data-start="0">
 
                 <div class="row-container">
                     <div class="container">

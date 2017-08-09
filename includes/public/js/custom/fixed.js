@@ -12,4 +12,8 @@ jQuery(document).ready(function () {
     var parallax_image = jQuery('.parallax_image');
 
     parallax_image.css('opacity','0.6');
+
+    var video = jQuery('#player');
+
+    video.css('opacity','0.6');
 });
