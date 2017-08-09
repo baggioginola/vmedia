@@ -11,13 +11,10 @@
                                  id="module_217">
                                 <div class="item__module" id="item_162">
 
-                                    <h3 class="item-title">
-                                        En Acción </h3>
-
                                     <div class="item_introtext">
                                     </div>
                                     <a class="btn btn-info readmore"
-                                       href=""><span>Ver Más</span></a>
+                                       href="<?php echo DOMAIN; ?>produccion-audiovisual"><span>Más info</span></a>
                                 </div>
                             </div>
                         </div>

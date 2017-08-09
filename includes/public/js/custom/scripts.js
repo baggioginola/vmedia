@@ -65,7 +65,7 @@ jQuery(function (jQuery) {
         slicedCols: 6,
         slicedRows: 4,
         thumbnails: 0,
-        time: 7000,
+        time: 3000,
         transPeriod: 500
     })
 });

@@ -245,6 +245,10 @@ dl.table dt {
 .btn-info {
     background: #FDA01D none repeat scroll 0 0;
 }
+
+.btn-servicios {
+    background: #fff none repeat scroll 0 0;
+}
 .btn-link {
     color: #FDA01D;
 }

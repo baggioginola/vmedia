@@ -19,15 +19,15 @@
 
                                         <div class="row-fluid">
                                             <div class="moduletable center  span4" style="padding-bottom: 50px;">
-                                                <a class="btn btn-info active"
+                                                <a class="btn btn-servicios active"
                                                    href="#"><span>Creatividad</span></a>
                                             </div>
                                             <div class="moduletable center  span4" style="padding-bottom: 50px;">
-                                                <a class="btn btn-info readmore"
+                                                <a class="btn btn-servicios"
                                                    href="<?php echo DOMAIN; ?>impacto"><span>Impacto</span></a>
                                             </div>
                                             <div class="moduletable center  span4" style="padding-bottom: 50px;">
-                                                <a class="btn btn-info readmore"
+                                                <a class="btn btn-servicios"
                                                    href="<?php echo DOMAIN; ?>estrategia"><span>estrategia</span></a>
                                             </div>
                                         </div>

@@ -3428,8 +3428,14 @@ button.close {
 .btn.active,
 .btn.selected {
     outline: none;
-    background: #ffffff;
-    color: #1e1d23;
+    background: #FDA01D;
+    color: #fff;
+}
+
+.btn-servicios.active{
+    outline: none;
+    background: #FDA01D;
+    color: #fff;
 }
 
 .btn.jmodedit:hover > span,
@@ -3544,6 +3550,16 @@ input[type="button"].btn-block {
 .btn-info:hover {
     background: #ffffff;
     color: #1e1d23;
+}
+
+.btn-servicios {
+    background: #ff315d;
+    color: #1e1d23;
+}
+
+.btn-servicios:hover {
+    background: #FDA01D;
+    color: #fff;
 }
 
 .btn-inverse {

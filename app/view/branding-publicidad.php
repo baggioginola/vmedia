@@ -13,34 +13,6 @@
                     <div class="container">
                         <div class="row">
                             <div class="moduletable span12">
-
-                                <div class="row-fluid">
-                                    <div class="moduletable center  span2" style="padding-bottom: 50px;">
-                                        <a href="<?php echo DOMAIN; ?>produccion-audiovisual"><img
-                                                src="<?php echo IMAGES; ?>iconos/estudio.png"><br><br>Producción Audiovisual</a>
-                                    </div>
-                                    <div class="moduletable center  span2" style="padding-bottom: 50px;">
-                                        <a href="<?php echo DOMAIN; ?>fotografia"><img
-                                                src="<?php echo IMAGES; ?>iconos/fotografia.png"><br><br>Fotografía</a>
-                                    </div>
-                                    <div class="moduletable center  span2" style="padding-bottom: 50px;">
-                                        <a href="<?php echo DOMAIN; ?>web-multimedia"><img
-                                                src="<?php echo IMAGES; ?>iconos/web.png"><br><br>Web & Multimedia</a>
-                                    </div>
-                                    <div class="moduletable center  span2" style="padding-bottom: 50px;">
-                                        <a href="<?php echo DOMAIN; ?>redes-sociales"><img
-                                                src="<?php echo IMAGES; ?>iconos/social.png"><br><br>Redes Sociales</a>
-                                    </div>
-                                    <div class="moduletable center  span2" style="padding-bottom: 50px;">
-                                        <a href="#" style="color: #fff;"><img
-                                                src="<?php echo IMAGES; ?>iconos/publicidad.png"><br><br>Branding & Publicidad</a>
-                                    </div>
-                                    <div class="moduletable center  span2" style="padding-bottom: 50px;">
-                                        <a href="<?php echo DOMAIN; ?>comunicacion-corporativa"><img
-                                                src="<?php echo IMAGES; ?>iconos/organizacional.png"><br><br>Comunicación Corporativa</a>
-                                    </div>
-                                </div>
-
                                 <div class="row-fluid">
                                     <div class="moduletable center  span6" style="padding-bottom: 50px;">
                                         <h3 style="margin-bottom: 20px;">Branding & Publicidad</h3>
@@ -60,8 +32,32 @@
                                         </div>
                                     </div>
                                 </div>
-
-
+                                <div class="row-fluid">
+                                    <div class="moduletable center  span2" style="padding-bottom: 50px;">
+                                        <a href="<?php echo DOMAIN; ?>produccion-audiovisual"><img
+                                                    src="<?php echo IMAGES; ?>iconos/estudio.png"><br><br>Producción Audiovisual</a>
+                                    </div>
+                                    <div class="moduletable center  span2" style="padding-bottom: 50px;">
+                                        <a href="<?php echo DOMAIN; ?>fotografia"><img
+                                                    src="<?php echo IMAGES; ?>iconos/fotografia.png"><br><br>Fotografía</a>
+                                    </div>
+                                    <div class="moduletable center  span2" style="padding-bottom: 50px;">
+                                        <a href="<?php echo DOMAIN; ?>web-multimedia"><img
+                                                    src="<?php echo IMAGES; ?>iconos/web.png"><br><br>Web & Multimedia</a>
+                                    </div>
+                                    <div class="moduletable center  span2" style="padding-bottom: 50px;">
+                                        <a href="<?php echo DOMAIN; ?>redes-sociales"><img
+                                                    src="<?php echo IMAGES; ?>iconos/social.png"><br><br>Redes Sociales</a>
+                                    </div>
+                                    <div class="moduletable center  span2" style="padding-bottom: 50px;">
+                                        <a href="#" style="color: #fff;"><img
+                                                    src="<?php echo IMAGES; ?>iconos/publicidad.png"><br><br>Branding & Publicidad</a>
+                                    </div>
+                                    <div class="moduletable center  span2" style="padding-bottom: 50px;">
+                                        <a href="<?php echo DOMAIN; ?>comunicacion-corporativa"><img
+                                                    src="<?php echo IMAGES; ?>iconos/organizacional.png"><br><br>Comunicación Corporativa</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
