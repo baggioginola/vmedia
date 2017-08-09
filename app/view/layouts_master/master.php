@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="<?php echo CSS; ?>color_scheme_1.css"/>
     <link rel="stylesheet" href="<?php echo CSS; ?>style.css"/>
 
+    <script src="https://player.vimeo.com/api/player.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>jquery.min.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>jquery-noconflict.js"></script>
     <script type="text/javascript" src="<?php echo JS; ?>jquery-migrate.min.js"></script>

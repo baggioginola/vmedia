@@ -50,50 +50,17 @@
                     'background-size': 'cover'
                 });
             } else {
-                if (typeof(YT) == 'undefined' || typeof(YT.Player) == 'undefined') {
-                    var tag = document.createElement('script');
-                    tag.src = "https://www.youtube.com/iframe_api";
-                    var firstScriptTag = document.getElementsByTagName('script')[0];
-                    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-                    window.onYouTubePlayerAPIReady = function () {
-                        var player = $('#player');
-                        var rd_video = $('.rd-video');
-
-                        var height = rd_video.height();
-                        var width = rd_video.width();
-
-
-                        player.after('<iframe src="https://player.vimeo.com/video/227856242?background=1&autoplay=1&loop=1" frameborder="0" style="position: absolute; z-index: -2; top: 0px;" width="' + width + '" height="' + height + '"></iframe>');
-                        //video.createPlayer();
-                    };
-                } else {
-                    var rd_video = $('.rd-video');
-
-                    var height = rd_video.height();
-                    var width = rd_video.width();
-
-                    var player = $('#player');
-                    player.after('<iframe src="https://player.vimeo.com/video/227856242?background=1&autoplay=1&loop=1" frameborder="0" style="position: absolute; z-index: -2; top: 0px;" width="' + width + '" height="' + height + '"></iframe>');
-                    //video.createPlayer();
-                }
+                video.createVimeo()
             }
-        }, onPlayerReady: function (e, video) {
-            video.player.seekTo(video.options.start);
-            if (video.options.mute)video.player.mute();
-            video.player.playVideo();
-            video.setLoop();
-            video.resize();
-        }, setLoop: function () {
-            var video = this;
-            var duration = video.player.getDuration();
-            setInterval(function () {
-                if (video.player.getCurrentTime() > duration - 1) {
-                    video.player.seekTo(video.options.start);
-                }
-            }, 500)
+        }, onPlayerReady: function (video) {
+            video.player.setVolume(0);
+            video.player.on('play', function() {
+                video.resize();
+            });
         }, resize: function () {
             var video = this;
             var $el = $('#' + video.$wrap.attr('id'));
+
             $el.removeAttr('height').removeAttr('width');
             $(window).resize(function () {
                 var width = $el.parent().width(), pWidth, height = $('.' + video.settings.wrapClass).height(), pHeight
@@ -105,24 +72,29 @@
                     $el.width(width).height(pHeight).css({left: 0, top: (height - pHeight) / 2});
                 }
             }).resize();
+
+            var div = document.getElementById('player');
+
+            var iFrame = div.getElementsByTagName("iframe")[0];
+
+            iFrame.setAttribute('width', $el.width());
+            iFrame.setAttribute('height', $el.height());
+
         }, isMobile: function () {
             return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
         }, createVimeo: function () {
-            var videoUrl = 'http://www.vimeo.com/227856242';
+            var video = this;
 
-            var endpoint = 'http://www.vimeo.com/api/oembed.json';
+            video.player = new Vimeo.Player(video.$wrap.attr('id'), {
+                height: '1080',
+                width: '1920',
+                id: 227856242,
+                autoplay: true,
+                title: false,
+                loop:true
+            });
 
-            var callback = 'embedVideo';
-
-            var url = endpoint + '?url=' + encodeURIComponent(videoUrl) + '&autoplay=true';
-
-
-            var tag = document.createElement('script');
-            tag.src = "https://www.youtube.com/iframe_api";
-            var firstScriptTag = document.getElementsByTagName('script')[0];
-            console.log(firstScriptTag);
-            console.log(tag);
-            firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+            video.onPlayerReady(video);
         }
     };
     $.fn.rdyoutubebg = function (option) {
@@ -166,38 +138,3 @@
         RDYoutubeBG_autoinit('.rd-youtube-bg');
     })
 })(jQuery);
-
-
-/*
- (function ($) {
- $(document).ready(function () {
-
- var videoUrl = 'http://www.vimeo.com/7100569';
-
- var endpoint = 'http://www.vimeo.com/api/oembed.json';
-
- var callback = 'embedVideo';
-
- var url = endpoint + '?url=' + encodeURIComponent(videoUrl) + '&background=1&callback=' + callback + '&autoplay=true';
-
- // This function loads the data from Vimeo
- function init() {
- var js = document.createElement('script');
- js.setAttribute('type', 'text/javascript');
- js.setAttribute('src', url);
- document.getElementsByTagName('head').item(0).appendChild(js);
- }
- // Call our init function when the page loads
- window.onload = init;
- })
- })(jQuery);
-
- function embedVideo(video) {
- console.log(video);
- //document.getElementById('embed').innerHTML = unescape(video.html);
- }
- */
-
-/*
- <iframe src="https://player.vimeo.com/video/7100569?background=1" frameborder="0" title="Brad!" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
- */
