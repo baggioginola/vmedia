@@ -25,29 +25,29 @@
                                 <div class="module_container">
                                     <header><h3 class="moduleTitle center">Contacto</h3></header>
                                     <div id="contact_209">
-                                        <form class="mod_tm_ajax_contact_form" id="contact-form_209" novalidate>
+                                        <form class="mod_tm_ajax_contact_form" id="form_contact">
                                             <fieldset>
                                                 <div class="row-fluid">
                                                     <div class="control control-group-input span6">
                                                         <div class="controls"><input type="text"
                                                                                      placeholder="Nombre"
-                                                                                     name="name" id="name_0"
+                                                                                     name="name" id="id_name"
                                                                                      class="mod_tm_ajax_contact_form_text hasTooltip"
                                                                                      required="true" title="Nombre">
                                                         </div>
                                                     </div>
                                                     <div class="control control-group-input span6">
                                                         <div class="controls"><input type="email"
-                                                                                     placeholder="Email"
-                                                                                     name="email" id="email_1"
+                                                                                     placeholder="E-mail"
+                                                                                     name="e_mail" id="id_email"
                                                                                      class="mod_tm_ajax_contact_form_email hasTooltip"
-                                                                                     required="true" title="Email">
+                                                                                     required="true" title="E-mail">
                                                         </div>
                                                     </div>
                                                     <div class="control control-group-input span12">
                                                         <div class="controls"><textarea name="message"
                                                                                         placeholder="Mensaje"
-                                                                                        id="message_2"
+                                                                                        id="id_mensaje"
                                                                                         class="mod_tm_ajax_contact_form_textarea hasTooltip"
                                                                                         required="true"
                                                                                         title="Mensaje"></textarea>
