@@ -53,7 +53,12 @@
                 video.createVimeo()
             }
         }, onPlayerReady: function (video) {
-            video.player.setVolume(0);
+            var mute = video.options.mute;
+
+            if(mute === true){
+                video.player.setVolume(0);
+            }
+
             video.resize();
         }, resize: function () {
             var video = this;

@@ -6,7 +6,7 @@
                 <div id='mapplaceholder8_ly2cs_0'>
                     <div id='mapbody8_ly2cs_0' style="text-align:center">
                         <iframe frameborder="0" height="400"
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.927658808955!2d-98.30657168553226!3d19.066917987093117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc0e1299aa007%3A0x9d70ef60b6968fa8!2sFeelMakers+Wedding+Cinematography!5e0!3m2!1ses!2smx!4v1502068026250"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.9339485797873!2d-98.30646968449257!3d19.06664148709332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc6214e930ff5%3A0x3a99f64f0d509763!2sAv.+5+de+Mayo+1204A%2C+Barrio+de+Santiago+Mixquitla%2C+72770+Cholula+de+Rivadabia%2C+Pue.%2C+M%C3%A9xico!5e0!3m2!1ses!2sus!4v1504041612873"
                                 style="border:0" width="100%"></iframe>
                     </div>
                 </div>
